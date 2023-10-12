@@ -1,0 +1,708 @@
+C:\Users\umitkoc\Desktop\ProjeTest\RezervEt\RezervEt\bin\RezervEt.dll.config
+C:\Users\umitkoc\Desktop\ProjeTest\RezervEt\RezervEt\bin\RezervEt.dll
+C:\Users\umitkoc\Desktop\ProjeTest\RezervEt\RezervEt\bin\RezervEt.pdb
+C:\Users\umitkoc\Desktop\ProjeTest\RezervEt\RezervEt\bin\roslyn\csc.exe
+C:\Users\umitkoc\Desktop\ProjeTest\RezervEt\RezervEt\bin\roslyn\csc.exe.config
+C:\Users\umitkoc\Desktop\ProjeTest\RezervEt\RezervEt\bin\roslyn\csc.rsp
+C:\Users\umitkoc\Desktop\ProjeTest\RezervEt\RezervEt\bin\roslyn\csi.exe
+C:\Users\umitkoc\Desktop\ProjeTest\RezervEt\RezervEt\bin\roslyn\csi.exe.config
+C:\Users\umitkoc\Desktop\ProjeTest\RezervEt\RezervEt\bin\roslyn\csi.rsp
+C:\Users\umitkoc\Desktop\ProjeTest\RezervEt\RezervEt\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\umitkoc\Desktop\ProjeTest\RezervEt\RezervEt\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\umitkoc\Desktop\ProjeTest\RezervEt\RezervEt\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\umitkoc\Desktop\ProjeTest\RezervEt\RezervEt\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\umitkoc\Desktop\ProjeTest\RezervEt\RezervEt\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\umitkoc\Desktop\ProjeTest\RezervEt\RezervEt\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\umitkoc\Desktop\ProjeTest\RezervEt\RezervEt\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\umitkoc\Desktop\ProjeTest\RezervEt\RezervEt\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\umitkoc\Desktop\ProjeTest\RezervEt\RezervEt\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\umitkoc\Desktop\ProjeTest\RezervEt\RezervEt\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\umitkoc\Desktop\ProjeTest\RezervEt\RezervEt\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\umitkoc\Desktop\ProjeTest\RezervEt\RezervEt\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\umitkoc\Desktop\ProjeTest\RezervEt\RezervEt\bin\roslyn\System.AppContext.dll
+C:\Users\umitkoc\Desktop\ProjeTest\RezervEt\RezervEt\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\umitkoc\Desktop\ProjeTest\RezervEt\RezervEt\bin\roslyn\System.Console.dll
+C:\Users\umitkoc\Desktop\ProjeTest\RezervEt\RezervEt\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\umitkoc\Desktop\ProjeTest\RezervEt\RezervEt\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\umitkoc\Desktop\ProjeTest\RezervEt\RezervEt\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\umitkoc\Desktop\ProjeTest\RezervEt\RezervEt\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\umitkoc\Desktop\ProjeTest\RezervEt\RezervEt\bin\roslyn\System.IO.Compression.dll
+C:\Users\umitkoc\Desktop\ProjeTest\RezervEt\RezervEt\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\umitkoc\Desktop\ProjeTest\RezervEt\RezervEt\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\umitkoc\Desktop\ProjeTest\RezervEt\RezervEt\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\umitkoc\Desktop\ProjeTest\RezervEt\RezervEt\bin\roslyn\System.Net.Http.dll
+C:\Users\umitkoc\Desktop\ProjeTest\RezervEt\RezervEt\bin\roslyn\System.Net.Sockets.dll
+C:\Users\umitkoc\Desktop\ProjeTest\RezervEt\RezervEt\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\umitkoc\Desktop\ProjeTest\RezervEt\RezervEt\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\umitkoc\Desktop\ProjeTest\RezervEt\RezervEt\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\umitkoc\Desktop\ProjeTest\RezervEt\RezervEt\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\umitkoc\Desktop\ProjeTest\RezervEt\RezervEt\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\umitkoc\Desktop\ProjeTest\RezervEt\RezervEt\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\umitkoc\Desktop\ProjeTest\RezervEt\RezervEt\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\umitkoc\Desktop\ProjeTest\RezervEt\RezervEt\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\umitkoc\Desktop\ProjeTest\RezervEt\RezervEt\bin\roslyn\System.ValueTuple.dll
+C:\Users\umitkoc\Desktop\ProjeTest\RezervEt\RezervEt\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\umitkoc\Desktop\ProjeTest\RezervEt\RezervEt\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\umitkoc\Desktop\ProjeTest\RezervEt\RezervEt\bin\roslyn\System.Xml.XPath.dll
+C:\Users\umitkoc\Desktop\ProjeTest\RezervEt\RezervEt\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\umitkoc\Desktop\ProjeTest\RezervEt\RezervEt\bin\roslyn\vbc.exe
+C:\Users\umitkoc\Desktop\ProjeTest\RezervEt\RezervEt\bin\roslyn\vbc.exe.config
+C:\Users\umitkoc\Desktop\ProjeTest\RezervEt\RezervEt\bin\roslyn\vbc.rsp
+C:\Users\umitkoc\Desktop\ProjeTest\RezervEt\RezervEt\bin\roslyn\VBCSCompiler.exe
+C:\Users\umitkoc\Desktop\ProjeTest\RezervEt\RezervEt\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\umitkoc\Desktop\ProjeTest\RezervEt\RezervEt\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\umitkoc\Desktop\ProjeTest\RezervEt\RezervEt\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\umitkoc\Desktop\ProjeTest\RezervEt\RezervEt\obj\Debug\RezervEt.csproj.AssemblyReference.cache
+C:\Users\umitkoc\Desktop\ProjeTest\RezervEt\RezervEt\obj\Debug\RezervEt.csproj.CoreCompileInputs.cache
+C:\Users\umitkoc\Desktop\ProjeTest\RezervEt\RezervEt\obj\Debug\RezervEt.csproj.CopyComplete
+C:\Users\umitkoc\Desktop\ProjeTest\RezervEt\RezervEt\obj\Debug\RezervEt.dll
+C:\Users\umitkoc\Desktop\ProjeTest\RezervEt\RezervEt\obj\Debug\RezervEt.pdb
+C:\Users\umitkoc\Desktop\RezervEt-Test\RezervEt\bin\RezervEt.dll.config
+C:\Users\umitkoc\Desktop\RezervEt-Test\RezervEt\bin\RezervEt.dll
+C:\Users\umitkoc\Desktop\RezervEt-Test\RezervEt\bin\RezervEt.pdb
+C:\Users\umitkoc\Desktop\RezervEt-Test\RezervEt\bin\roslyn\csc.exe
+C:\Users\umitkoc\Desktop\RezervEt-Test\RezervEt\bin\roslyn\csc.exe.config
+C:\Users\umitkoc\Desktop\RezervEt-Test\RezervEt\bin\roslyn\csc.rsp
+C:\Users\umitkoc\Desktop\RezervEt-Test\RezervEt\bin\roslyn\csi.exe
+C:\Users\umitkoc\Desktop\RezervEt-Test\RezervEt\bin\roslyn\csi.exe.config
+C:\Users\umitkoc\Desktop\RezervEt-Test\RezervEt\bin\roslyn\csi.rsp
+C:\Users\umitkoc\Desktop\RezervEt-Test\RezervEt\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\umitkoc\Desktop\RezervEt-Test\RezervEt\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\umitkoc\Desktop\RezervEt-Test\RezervEt\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\umitkoc\Desktop\RezervEt-Test\RezervEt\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\umitkoc\Desktop\RezervEt-Test\RezervEt\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\umitkoc\Desktop\RezervEt-Test\RezervEt\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\umitkoc\Desktop\RezervEt-Test\RezervEt\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\umitkoc\Desktop\RezervEt-Test\RezervEt\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\umitkoc\Desktop\RezervEt-Test\RezervEt\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\umitkoc\Desktop\RezervEt-Test\RezervEt\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\umitkoc\Desktop\RezervEt-Test\RezervEt\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\umitkoc\Desktop\RezervEt-Test\RezervEt\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\umitkoc\Desktop\RezervEt-Test\RezervEt\bin\roslyn\System.AppContext.dll
+C:\Users\umitkoc\Desktop\RezervEt-Test\RezervEt\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\umitkoc\Desktop\RezervEt-Test\RezervEt\bin\roslyn\System.Console.dll
+C:\Users\umitkoc\Desktop\RezervEt-Test\RezervEt\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\umitkoc\Desktop\RezervEt-Test\RezervEt\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\umitkoc\Desktop\RezervEt-Test\RezervEt\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\umitkoc\Desktop\RezervEt-Test\RezervEt\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\umitkoc\Desktop\RezervEt-Test\RezervEt\bin\roslyn\System.IO.Compression.dll
+C:\Users\umitkoc\Desktop\RezervEt-Test\RezervEt\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\umitkoc\Desktop\RezervEt-Test\RezervEt\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\umitkoc\Desktop\RezervEt-Test\RezervEt\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\umitkoc\Desktop\RezervEt-Test\RezervEt\bin\roslyn\System.Net.Http.dll
+C:\Users\umitkoc\Desktop\RezervEt-Test\RezervEt\bin\roslyn\System.Net.Sockets.dll
+C:\Users\umitkoc\Desktop\RezervEt-Test\RezervEt\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\umitkoc\Desktop\RezervEt-Test\RezervEt\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\umitkoc\Desktop\RezervEt-Test\RezervEt\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\umitkoc\Desktop\RezervEt-Test\RezervEt\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\umitkoc\Desktop\RezervEt-Test\RezervEt\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\umitkoc\Desktop\RezervEt-Test\RezervEt\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\umitkoc\Desktop\RezervEt-Test\RezervEt\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\umitkoc\Desktop\RezervEt-Test\RezervEt\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\umitkoc\Desktop\RezervEt-Test\RezervEt\bin\roslyn\System.ValueTuple.dll
+C:\Users\umitkoc\Desktop\RezervEt-Test\RezervEt\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\umitkoc\Desktop\RezervEt-Test\RezervEt\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\umitkoc\Desktop\RezervEt-Test\RezervEt\bin\roslyn\System.Xml.XPath.dll
+C:\Users\umitkoc\Desktop\RezervEt-Test\RezervEt\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\umitkoc\Desktop\RezervEt-Test\RezervEt\bin\roslyn\vbc.exe
+C:\Users\umitkoc\Desktop\RezervEt-Test\RezervEt\bin\roslyn\vbc.exe.config
+C:\Users\umitkoc\Desktop\RezervEt-Test\RezervEt\bin\roslyn\vbc.rsp
+C:\Users\umitkoc\Desktop\RezervEt-Test\RezervEt\bin\roslyn\VBCSCompiler.exe
+C:\Users\umitkoc\Desktop\RezervEt-Test\RezervEt\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\umitkoc\Desktop\RezervEt-Test\RezervEt\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\umitkoc\Desktop\RezervEt-Test\RezervEt\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\umitkoc\Desktop\RezervEt-Test\RezervEt\obj\Debug\RezervEt.csproj.AssemblyReference.cache
+C:\Users\umitkoc\Desktop\RezervEt-Test\RezervEt\obj\Debug\RezervEt.csproj.CoreCompileInputs.cache
+C:\Users\umitkoc\Desktop\RezervEt-Test\RezervEt\obj\Debug\RezervEt.csproj.CopyComplete
+C:\Users\umitkoc\Desktop\RezervEt-Test\RezervEt\obj\Debug\RezervEt.dll
+C:\Users\umitkoc\Desktop\RezervEt-Test\RezervEt\obj\Debug\RezervEt.pdb
+C:\Users\umitkoc\Desktop\RezervEt\RezervEt\obj\Debug\RezervEt.csproj.AssemblyReference.cache
+C:\Users\umitkoc\Desktop\RezervEt\RezervEt\obj\Debug\RezervEt.csproj.CoreCompileInputs.cache
+C:\Users\umitkoc\Desktop\RezervEt\RezervEt\obj\Debug\RezervEt.dll
+C:\Users\umitkoc\Desktop\RezervEt\RezervEt\obj\Debug\RezervEt.pdb
+C:\Users\umitkoc\Desktop\RezervEt\RezervEt\bin\RezervEt.dll.config
+C:\Users\umitkoc\Desktop\RezervEt\RezervEt\bin\RezervEt.dll
+C:\Users\umitkoc\Desktop\RezervEt\RezervEt\bin\RezervEt.pdb
+C:\Users\umitkoc\Desktop\RezervEt\RezervEt\bin\roslyn\csc.exe
+C:\Users\umitkoc\Desktop\RezervEt\RezervEt\bin\roslyn\csc.exe.config
+C:\Users\umitkoc\Desktop\RezervEt\RezervEt\bin\roslyn\csc.rsp
+C:\Users\umitkoc\Desktop\RezervEt\RezervEt\bin\roslyn\csi.exe
+C:\Users\umitkoc\Desktop\RezervEt\RezervEt\bin\roslyn\csi.exe.config
+C:\Users\umitkoc\Desktop\RezervEt\RezervEt\bin\roslyn\csi.rsp
+C:\Users\umitkoc\Desktop\RezervEt\RezervEt\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\umitkoc\Desktop\RezervEt\RezervEt\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\umitkoc\Desktop\RezervEt\RezervEt\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\umitkoc\Desktop\RezervEt\RezervEt\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\umitkoc\Desktop\RezervEt\RezervEt\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\umitkoc\Desktop\RezervEt\RezervEt\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\umitkoc\Desktop\RezervEt\RezervEt\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\umitkoc\Desktop\RezervEt\RezervEt\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\umitkoc\Desktop\RezervEt\RezervEt\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\umitkoc\Desktop\RezervEt\RezervEt\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\umitkoc\Desktop\RezervEt\RezervEt\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\umitkoc\Desktop\RezervEt\RezervEt\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\umitkoc\Desktop\RezervEt\RezervEt\bin\roslyn\System.AppContext.dll
+C:\Users\umitkoc\Desktop\RezervEt\RezervEt\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\umitkoc\Desktop\RezervEt\RezervEt\bin\roslyn\System.Console.dll
+C:\Users\umitkoc\Desktop\RezervEt\RezervEt\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\umitkoc\Desktop\RezervEt\RezervEt\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\umitkoc\Desktop\RezervEt\RezervEt\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\umitkoc\Desktop\RezervEt\RezervEt\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\umitkoc\Desktop\RezervEt\RezervEt\bin\roslyn\System.IO.Compression.dll
+C:\Users\umitkoc\Desktop\RezervEt\RezervEt\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\umitkoc\Desktop\RezervEt\RezervEt\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\umitkoc\Desktop\RezervEt\RezervEt\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\umitkoc\Desktop\RezervEt\RezervEt\bin\roslyn\System.Net.Http.dll
+C:\Users\umitkoc\Desktop\RezervEt\RezervEt\bin\roslyn\System.Net.Sockets.dll
+C:\Users\umitkoc\Desktop\RezervEt\RezervEt\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\umitkoc\Desktop\RezervEt\RezervEt\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\umitkoc\Desktop\RezervEt\RezervEt\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\umitkoc\Desktop\RezervEt\RezervEt\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\umitkoc\Desktop\RezervEt\RezervEt\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\umitkoc\Desktop\RezervEt\RezervEt\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\umitkoc\Desktop\RezervEt\RezervEt\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\umitkoc\Desktop\RezervEt\RezervEt\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\umitkoc\Desktop\RezervEt\RezervEt\bin\roslyn\System.ValueTuple.dll
+C:\Users\umitkoc\Desktop\RezervEt\RezervEt\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\umitkoc\Desktop\RezervEt\RezervEt\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\umitkoc\Desktop\RezervEt\RezervEt\bin\roslyn\System.Xml.XPath.dll
+C:\Users\umitkoc\Desktop\RezervEt\RezervEt\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\umitkoc\Desktop\RezervEt\RezervEt\bin\roslyn\vbc.exe
+C:\Users\umitkoc\Desktop\RezervEt\RezervEt\bin\roslyn\vbc.exe.config
+C:\Users\umitkoc\Desktop\RezervEt\RezervEt\bin\roslyn\vbc.rsp
+C:\Users\umitkoc\Desktop\RezervEt\RezervEt\bin\roslyn\VBCSCompiler.exe
+C:\Users\umitkoc\Desktop\RezervEt\RezervEt\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\umitkoc\Desktop\RezervEt\RezervEt\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\umitkoc\Desktop\RezervEt\RezervEt\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\umitkoc\Desktop\RezervEt\RezervEt\obj\Debug\RezervEt.csproj.CopyComplete
+C:\Users\umitkoc\Desktop\RezervEt - Test2\RezervEt\bin\RezervEt.dll.config
+C:\Users\umitkoc\Desktop\RezervEt - Test2\RezervEt\bin\RezervEt.dll
+C:\Users\umitkoc\Desktop\RezervEt - Test2\RezervEt\bin\RezervEt.pdb
+C:\Users\umitkoc\Desktop\RezervEt - Test2\RezervEt\bin\roslyn\csc.exe
+C:\Users\umitkoc\Desktop\RezervEt - Test2\RezervEt\bin\roslyn\csc.exe.config
+C:\Users\umitkoc\Desktop\RezervEt - Test2\RezervEt\bin\roslyn\csc.rsp
+C:\Users\umitkoc\Desktop\RezervEt - Test2\RezervEt\bin\roslyn\csi.exe
+C:\Users\umitkoc\Desktop\RezervEt - Test2\RezervEt\bin\roslyn\csi.exe.config
+C:\Users\umitkoc\Desktop\RezervEt - Test2\RezervEt\bin\roslyn\csi.rsp
+C:\Users\umitkoc\Desktop\RezervEt - Test2\RezervEt\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\umitkoc\Desktop\RezervEt - Test2\RezervEt\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\umitkoc\Desktop\RezervEt - Test2\RezervEt\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\umitkoc\Desktop\RezervEt - Test2\RezervEt\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\umitkoc\Desktop\RezervEt - Test2\RezervEt\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\umitkoc\Desktop\RezervEt - Test2\RezervEt\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\umitkoc\Desktop\RezervEt - Test2\RezervEt\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\umitkoc\Desktop\RezervEt - Test2\RezervEt\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\umitkoc\Desktop\RezervEt - Test2\RezervEt\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\umitkoc\Desktop\RezervEt - Test2\RezervEt\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\umitkoc\Desktop\RezervEt - Test2\RezervEt\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\umitkoc\Desktop\RezervEt - Test2\RezervEt\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\umitkoc\Desktop\RezervEt - Test2\RezervEt\bin\roslyn\System.AppContext.dll
+C:\Users\umitkoc\Desktop\RezervEt - Test2\RezervEt\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\umitkoc\Desktop\RezervEt - Test2\RezervEt\bin\roslyn\System.Console.dll
+C:\Users\umitkoc\Desktop\RezervEt - Test2\RezervEt\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\umitkoc\Desktop\RezervEt - Test2\RezervEt\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\umitkoc\Desktop\RezervEt - Test2\RezervEt\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\umitkoc\Desktop\RezervEt - Test2\RezervEt\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\umitkoc\Desktop\RezervEt - Test2\RezervEt\bin\roslyn\System.IO.Compression.dll
+C:\Users\umitkoc\Desktop\RezervEt - Test2\RezervEt\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\umitkoc\Desktop\RezervEt - Test2\RezervEt\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\umitkoc\Desktop\RezervEt - Test2\RezervEt\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\umitkoc\Desktop\RezervEt - Test2\RezervEt\bin\roslyn\System.Net.Http.dll
+C:\Users\umitkoc\Desktop\RezervEt - Test2\RezervEt\bin\roslyn\System.Net.Sockets.dll
+C:\Users\umitkoc\Desktop\RezervEt - Test2\RezervEt\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\umitkoc\Desktop\RezervEt - Test2\RezervEt\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\umitkoc\Desktop\RezervEt - Test2\RezervEt\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\umitkoc\Desktop\RezervEt - Test2\RezervEt\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\umitkoc\Desktop\RezervEt - Test2\RezervEt\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\umitkoc\Desktop\RezervEt - Test2\RezervEt\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\umitkoc\Desktop\RezervEt - Test2\RezervEt\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\umitkoc\Desktop\RezervEt - Test2\RezervEt\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\umitkoc\Desktop\RezervEt - Test2\RezervEt\bin\roslyn\System.ValueTuple.dll
+C:\Users\umitkoc\Desktop\RezervEt - Test2\RezervEt\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\umitkoc\Desktop\RezervEt - Test2\RezervEt\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\umitkoc\Desktop\RezervEt - Test2\RezervEt\bin\roslyn\System.Xml.XPath.dll
+C:\Users\umitkoc\Desktop\RezervEt - Test2\RezervEt\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\umitkoc\Desktop\RezervEt - Test2\RezervEt\bin\roslyn\vbc.exe
+C:\Users\umitkoc\Desktop\RezervEt - Test2\RezervEt\bin\roslyn\vbc.exe.config
+C:\Users\umitkoc\Desktop\RezervEt - Test2\RezervEt\bin\roslyn\vbc.rsp
+C:\Users\umitkoc\Desktop\RezervEt - Test2\RezervEt\bin\roslyn\VBCSCompiler.exe
+C:\Users\umitkoc\Desktop\RezervEt - Test2\RezervEt\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\umitkoc\Desktop\RezervEt - Test2\RezervEt\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\umitkoc\Desktop\RezervEt - Test2\RezervEt\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\umitkoc\Desktop\RezervEt - Test2\RezervEt\obj\Debug\RezervEt.csproj.AssemblyReference.cache
+C:\Users\umitkoc\Desktop\RezervEt - Test2\RezervEt\obj\Debug\RezervEt.csproj.CoreCompileInputs.cache
+C:\Users\umitkoc\Desktop\RezervEt - Test2\RezervEt\obj\Debug\RezervEt.csproj.CopyComplete
+C:\Users\umitkoc\Desktop\RezervEt - Test2\RezervEt\obj\Debug\RezervEt.dll
+C:\Users\umitkoc\Desktop\RezervEt - Test2\RezervEt\obj\Debug\RezervEt.pdb
+C:\Users\umitkoc\Desktop\RezervEt - Test3\RezervEt\bin\RezervEt.dll.config
+C:\Users\umitkoc\Desktop\RezervEt - Test3\RezervEt\bin\RezervEt.dll
+C:\Users\umitkoc\Desktop\RezervEt - Test3\RezervEt\bin\RezervEt.pdb
+C:\Users\umitkoc\Desktop\RezervEt - Test3\RezervEt\bin\roslyn\csc.exe
+C:\Users\umitkoc\Desktop\RezervEt - Test3\RezervEt\bin\roslyn\csc.exe.config
+C:\Users\umitkoc\Desktop\RezervEt - Test3\RezervEt\bin\roslyn\csc.rsp
+C:\Users\umitkoc\Desktop\RezervEt - Test3\RezervEt\bin\roslyn\csi.exe
+C:\Users\umitkoc\Desktop\RezervEt - Test3\RezervEt\bin\roslyn\csi.exe.config
+C:\Users\umitkoc\Desktop\RezervEt - Test3\RezervEt\bin\roslyn\csi.rsp
+C:\Users\umitkoc\Desktop\RezervEt - Test3\RezervEt\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\umitkoc\Desktop\RezervEt - Test3\RezervEt\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\umitkoc\Desktop\RezervEt - Test3\RezervEt\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\umitkoc\Desktop\RezervEt - Test3\RezervEt\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\umitkoc\Desktop\RezervEt - Test3\RezervEt\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\umitkoc\Desktop\RezervEt - Test3\RezervEt\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\umitkoc\Desktop\RezervEt - Test3\RezervEt\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\umitkoc\Desktop\RezervEt - Test3\RezervEt\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\umitkoc\Desktop\RezervEt - Test3\RezervEt\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\umitkoc\Desktop\RezervEt - Test3\RezervEt\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\umitkoc\Desktop\RezervEt - Test3\RezervEt\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\umitkoc\Desktop\RezervEt - Test3\RezervEt\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\umitkoc\Desktop\RezervEt - Test3\RezervEt\bin\roslyn\System.AppContext.dll
+C:\Users\umitkoc\Desktop\RezervEt - Test3\RezervEt\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\umitkoc\Desktop\RezervEt - Test3\RezervEt\bin\roslyn\System.Console.dll
+C:\Users\umitkoc\Desktop\RezervEt - Test3\RezervEt\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\umitkoc\Desktop\RezervEt - Test3\RezervEt\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\umitkoc\Desktop\RezervEt - Test3\RezervEt\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\umitkoc\Desktop\RezervEt - Test3\RezervEt\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\umitkoc\Desktop\RezervEt - Test3\RezervEt\bin\roslyn\System.IO.Compression.dll
+C:\Users\umitkoc\Desktop\RezervEt - Test3\RezervEt\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\umitkoc\Desktop\RezervEt - Test3\RezervEt\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\umitkoc\Desktop\RezervEt - Test3\RezervEt\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\umitkoc\Desktop\RezervEt - Test3\RezervEt\bin\roslyn\System.Net.Http.dll
+C:\Users\umitkoc\Desktop\RezervEt - Test3\RezervEt\bin\roslyn\System.Net.Sockets.dll
+C:\Users\umitkoc\Desktop\RezervEt - Test3\RezervEt\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\umitkoc\Desktop\RezervEt - Test3\RezervEt\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\umitkoc\Desktop\RezervEt - Test3\RezervEt\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\umitkoc\Desktop\RezervEt - Test3\RezervEt\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\umitkoc\Desktop\RezervEt - Test3\RezervEt\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\umitkoc\Desktop\RezervEt - Test3\RezervEt\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\umitkoc\Desktop\RezervEt - Test3\RezervEt\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\umitkoc\Desktop\RezervEt - Test3\RezervEt\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\umitkoc\Desktop\RezervEt - Test3\RezervEt\bin\roslyn\System.ValueTuple.dll
+C:\Users\umitkoc\Desktop\RezervEt - Test3\RezervEt\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\umitkoc\Desktop\RezervEt - Test3\RezervEt\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\umitkoc\Desktop\RezervEt - Test3\RezervEt\bin\roslyn\System.Xml.XPath.dll
+C:\Users\umitkoc\Desktop\RezervEt - Test3\RezervEt\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\umitkoc\Desktop\RezervEt - Test3\RezervEt\bin\roslyn\vbc.exe
+C:\Users\umitkoc\Desktop\RezervEt - Test3\RezervEt\bin\roslyn\vbc.exe.config
+C:\Users\umitkoc\Desktop\RezervEt - Test3\RezervEt\bin\roslyn\vbc.rsp
+C:\Users\umitkoc\Desktop\RezervEt - Test3\RezervEt\bin\roslyn\VBCSCompiler.exe
+C:\Users\umitkoc\Desktop\RezervEt - Test3\RezervEt\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\umitkoc\Desktop\RezervEt - Test3\RezervEt\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\umitkoc\Desktop\RezervEt - Test3\RezervEt\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\umitkoc\Desktop\RezervEt - Test3\RezervEt\obj\Debug\RezervEt.csproj.AssemblyReference.cache
+C:\Users\umitkoc\Desktop\RezervEt - Test3\RezervEt\obj\Debug\RezervEt.csproj.CoreCompileInputs.cache
+C:\Users\umitkoc\Desktop\RezervEt - Test3\RezervEt\obj\Debug\RezervEt.csproj.CopyComplete
+C:\Users\umitkoc\Desktop\RezervEt - Test3\RezervEt\obj\Debug\RezervEt.dll
+C:\Users\umitkoc\Desktop\RezervEt - Test3\RezervEt\obj\Debug\RezervEt.pdb
+C:\Users\umitkoc\Desktop\RezervEt - Test4\RezervEt\bin\RezervEt.dll.config
+C:\Users\umitkoc\Desktop\RezervEt - Test4\RezervEt\bin\RezervEt.dll
+C:\Users\umitkoc\Desktop\RezervEt - Test4\RezervEt\bin\RezervEt.pdb
+C:\Users\umitkoc\Desktop\RezervEt - Test4\RezervEt\bin\roslyn\csc.exe
+C:\Users\umitkoc\Desktop\RezervEt - Test4\RezervEt\bin\roslyn\csc.exe.config
+C:\Users\umitkoc\Desktop\RezervEt - Test4\RezervEt\bin\roslyn\csc.rsp
+C:\Users\umitkoc\Desktop\RezervEt - Test4\RezervEt\bin\roslyn\csi.exe
+C:\Users\umitkoc\Desktop\RezervEt - Test4\RezervEt\bin\roslyn\csi.exe.config
+C:\Users\umitkoc\Desktop\RezervEt - Test4\RezervEt\bin\roslyn\csi.rsp
+C:\Users\umitkoc\Desktop\RezervEt - Test4\RezervEt\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\umitkoc\Desktop\RezervEt - Test4\RezervEt\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\umitkoc\Desktop\RezervEt - Test4\RezervEt\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\umitkoc\Desktop\RezervEt - Test4\RezervEt\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\umitkoc\Desktop\RezervEt - Test4\RezervEt\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\umitkoc\Desktop\RezervEt - Test4\RezervEt\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\umitkoc\Desktop\RezervEt - Test4\RezervEt\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\umitkoc\Desktop\RezervEt - Test4\RezervEt\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\umitkoc\Desktop\RezervEt - Test4\RezervEt\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\umitkoc\Desktop\RezervEt - Test4\RezervEt\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\umitkoc\Desktop\RezervEt - Test4\RezervEt\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\umitkoc\Desktop\RezervEt - Test4\RezervEt\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\umitkoc\Desktop\RezervEt - Test4\RezervEt\bin\roslyn\System.AppContext.dll
+C:\Users\umitkoc\Desktop\RezervEt - Test4\RezervEt\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\umitkoc\Desktop\RezervEt - Test4\RezervEt\bin\roslyn\System.Console.dll
+C:\Users\umitkoc\Desktop\RezervEt - Test4\RezervEt\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\umitkoc\Desktop\RezervEt - Test4\RezervEt\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\umitkoc\Desktop\RezervEt - Test4\RezervEt\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\umitkoc\Desktop\RezervEt - Test4\RezervEt\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\umitkoc\Desktop\RezervEt - Test4\RezervEt\bin\roslyn\System.IO.Compression.dll
+C:\Users\umitkoc\Desktop\RezervEt - Test4\RezervEt\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\umitkoc\Desktop\RezervEt - Test4\RezervEt\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\umitkoc\Desktop\RezervEt - Test4\RezervEt\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\umitkoc\Desktop\RezervEt - Test4\RezervEt\bin\roslyn\System.Net.Http.dll
+C:\Users\umitkoc\Desktop\RezervEt - Test4\RezervEt\bin\roslyn\System.Net.Sockets.dll
+C:\Users\umitkoc\Desktop\RezervEt - Test4\RezervEt\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\umitkoc\Desktop\RezervEt - Test4\RezervEt\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\umitkoc\Desktop\RezervEt - Test4\RezervEt\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\umitkoc\Desktop\RezervEt - Test4\RezervEt\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\umitkoc\Desktop\RezervEt - Test4\RezervEt\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\umitkoc\Desktop\RezervEt - Test4\RezervEt\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\umitkoc\Desktop\RezervEt - Test4\RezervEt\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\umitkoc\Desktop\RezervEt - Test4\RezervEt\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\umitkoc\Desktop\RezervEt - Test4\RezervEt\bin\roslyn\System.ValueTuple.dll
+C:\Users\umitkoc\Desktop\RezervEt - Test4\RezervEt\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\umitkoc\Desktop\RezervEt - Test4\RezervEt\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\umitkoc\Desktop\RezervEt - Test4\RezervEt\bin\roslyn\System.Xml.XPath.dll
+C:\Users\umitkoc\Desktop\RezervEt - Test4\RezervEt\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\umitkoc\Desktop\RezervEt - Test4\RezervEt\bin\roslyn\vbc.exe
+C:\Users\umitkoc\Desktop\RezervEt - Test4\RezervEt\bin\roslyn\vbc.exe.config
+C:\Users\umitkoc\Desktop\RezervEt - Test4\RezervEt\bin\roslyn\vbc.rsp
+C:\Users\umitkoc\Desktop\RezervEt - Test4\RezervEt\bin\roslyn\VBCSCompiler.exe
+C:\Users\umitkoc\Desktop\RezervEt - Test4\RezervEt\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\umitkoc\Desktop\RezervEt - Test4\RezervEt\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\umitkoc\Desktop\RezervEt - Test4\RezervEt\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\umitkoc\Desktop\RezervEt - Test4\RezervEt\obj\Debug\RezervEt.csproj.AssemblyReference.cache
+C:\Users\umitkoc\Desktop\RezervEt - Test4\RezervEt\obj\Debug\RezervEt.csproj.CoreCompileInputs.cache
+C:\Users\umitkoc\Desktop\RezervEt - Test4\RezervEt\obj\Debug\RezervEt.csproj.CopyComplete
+C:\Users\umitkoc\Desktop\RezervEt - Test4\RezervEt\obj\Debug\RezervEt.dll
+C:\Users\umitkoc\Desktop\RezervEt - Test4\RezervEt\obj\Debug\RezervEt.pdb
+C:\Users\umitkoc\Desktop\RezervEt - Test4 - Kopya\RezervEt\bin\RezervEt.dll.config
+C:\Users\umitkoc\Desktop\RezervEt - Test4 - Kopya\RezervEt\bin\RezervEt.dll
+C:\Users\umitkoc\Desktop\RezervEt - Test4 - Kopya\RezervEt\bin\RezervEt.pdb
+C:\Users\umitkoc\Desktop\RezervEt - Test4 - Kopya\RezervEt\bin\roslyn\csc.exe
+C:\Users\umitkoc\Desktop\RezervEt - Test4 - Kopya\RezervEt\bin\roslyn\csc.exe.config
+C:\Users\umitkoc\Desktop\RezervEt - Test4 - Kopya\RezervEt\bin\roslyn\csc.rsp
+C:\Users\umitkoc\Desktop\RezervEt - Test4 - Kopya\RezervEt\bin\roslyn\csi.exe
+C:\Users\umitkoc\Desktop\RezervEt - Test4 - Kopya\RezervEt\bin\roslyn\csi.exe.config
+C:\Users\umitkoc\Desktop\RezervEt - Test4 - Kopya\RezervEt\bin\roslyn\csi.rsp
+C:\Users\umitkoc\Desktop\RezervEt - Test4 - Kopya\RezervEt\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\umitkoc\Desktop\RezervEt - Test4 - Kopya\RezervEt\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\umitkoc\Desktop\RezervEt - Test4 - Kopya\RezervEt\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\umitkoc\Desktop\RezervEt - Test4 - Kopya\RezervEt\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\umitkoc\Desktop\RezervEt - Test4 - Kopya\RezervEt\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\umitkoc\Desktop\RezervEt - Test4 - Kopya\RezervEt\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\umitkoc\Desktop\RezervEt - Test4 - Kopya\RezervEt\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\umitkoc\Desktop\RezervEt - Test4 - Kopya\RezervEt\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\umitkoc\Desktop\RezervEt - Test4 - Kopya\RezervEt\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\umitkoc\Desktop\RezervEt - Test4 - Kopya\RezervEt\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\umitkoc\Desktop\RezervEt - Test4 - Kopya\RezervEt\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\umitkoc\Desktop\RezervEt - Test4 - Kopya\RezervEt\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\umitkoc\Desktop\RezervEt - Test4 - Kopya\RezervEt\bin\roslyn\System.AppContext.dll
+C:\Users\umitkoc\Desktop\RezervEt - Test4 - Kopya\RezervEt\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\umitkoc\Desktop\RezervEt - Test4 - Kopya\RezervEt\bin\roslyn\System.Console.dll
+C:\Users\umitkoc\Desktop\RezervEt - Test4 - Kopya\RezervEt\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\umitkoc\Desktop\RezervEt - Test4 - Kopya\RezervEt\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\umitkoc\Desktop\RezervEt - Test4 - Kopya\RezervEt\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\umitkoc\Desktop\RezervEt - Test4 - Kopya\RezervEt\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\umitkoc\Desktop\RezervEt - Test4 - Kopya\RezervEt\bin\roslyn\System.IO.Compression.dll
+C:\Users\umitkoc\Desktop\RezervEt - Test4 - Kopya\RezervEt\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\umitkoc\Desktop\RezervEt - Test4 - Kopya\RezervEt\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\umitkoc\Desktop\RezervEt - Test4 - Kopya\RezervEt\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\umitkoc\Desktop\RezervEt - Test4 - Kopya\RezervEt\bin\roslyn\System.Net.Http.dll
+C:\Users\umitkoc\Desktop\RezervEt - Test4 - Kopya\RezervEt\bin\roslyn\System.Net.Sockets.dll
+C:\Users\umitkoc\Desktop\RezervEt - Test4 - Kopya\RezervEt\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\umitkoc\Desktop\RezervEt - Test4 - Kopya\RezervEt\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\umitkoc\Desktop\RezervEt - Test4 - Kopya\RezervEt\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\umitkoc\Desktop\RezervEt - Test4 - Kopya\RezervEt\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\umitkoc\Desktop\RezervEt - Test4 - Kopya\RezervEt\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\umitkoc\Desktop\RezervEt - Test4 - Kopya\RezervEt\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\umitkoc\Desktop\RezervEt - Test4 - Kopya\RezervEt\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\umitkoc\Desktop\RezervEt - Test4 - Kopya\RezervEt\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\umitkoc\Desktop\RezervEt - Test4 - Kopya\RezervEt\bin\roslyn\System.ValueTuple.dll
+C:\Users\umitkoc\Desktop\RezervEt - Test4 - Kopya\RezervEt\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\umitkoc\Desktop\RezervEt - Test4 - Kopya\RezervEt\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\umitkoc\Desktop\RezervEt - Test4 - Kopya\RezervEt\bin\roslyn\System.Xml.XPath.dll
+C:\Users\umitkoc\Desktop\RezervEt - Test4 - Kopya\RezervEt\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\umitkoc\Desktop\RezervEt - Test4 - Kopya\RezervEt\bin\roslyn\vbc.exe
+C:\Users\umitkoc\Desktop\RezervEt - Test4 - Kopya\RezervEt\bin\roslyn\vbc.exe.config
+C:\Users\umitkoc\Desktop\RezervEt - Test4 - Kopya\RezervEt\bin\roslyn\vbc.rsp
+C:\Users\umitkoc\Desktop\RezervEt - Test4 - Kopya\RezervEt\bin\roslyn\VBCSCompiler.exe
+C:\Users\umitkoc\Desktop\RezervEt - Test4 - Kopya\RezervEt\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\umitkoc\Desktop\RezervEt - Test4 - Kopya\RezervEt\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\umitkoc\Desktop\RezervEt - Test4 - Kopya\RezervEt\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\umitkoc\Desktop\RezervEt - Test4 - Kopya\RezervEt\obj\Debug\RezervEt.csproj.AssemblyReference.cache
+C:\Users\umitkoc\Desktop\RezervEt - Test4 - Kopya\RezervEt\obj\Debug\RezervEt.csproj.CoreCompileInputs.cache
+C:\Users\umitkoc\Desktop\RezervEt - Test4 - Kopya\RezervEt\obj\Debug\RezervEt.csproj.CopyComplete
+C:\Users\umitkoc\Desktop\RezervEt - Test4 - Kopya\RezervEt\obj\Debug\RezervEt.dll
+C:\Users\umitkoc\Desktop\RezervEt - Test4 - Kopya\RezervEt\obj\Debug\RezervEt.pdb
+C:\Users\umitkoc\Desktop\RezervEt - Test4 - Kopya 2\RezervEt\bin\RezervEt.dll.config
+C:\Users\umitkoc\Desktop\RezervEt - Test4 - Kopya 2\RezervEt\bin\RezervEt.dll
+C:\Users\umitkoc\Desktop\RezervEt - Test4 - Kopya 2\RezervEt\bin\RezervEt.pdb
+C:\Users\umitkoc\Desktop\RezervEt - Test4 - Kopya 2\RezervEt\bin\roslyn\csc.exe
+C:\Users\umitkoc\Desktop\RezervEt - Test4 - Kopya 2\RezervEt\bin\roslyn\csc.exe.config
+C:\Users\umitkoc\Desktop\RezervEt - Test4 - Kopya 2\RezervEt\bin\roslyn\csc.rsp
+C:\Users\umitkoc\Desktop\RezervEt - Test4 - Kopya 2\RezervEt\bin\roslyn\csi.exe
+C:\Users\umitkoc\Desktop\RezervEt - Test4 - Kopya 2\RezervEt\bin\roslyn\csi.exe.config
+C:\Users\umitkoc\Desktop\RezervEt - Test4 - Kopya 2\RezervEt\bin\roslyn\csi.rsp
+C:\Users\umitkoc\Desktop\RezervEt - Test4 - Kopya 2\RezervEt\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\umitkoc\Desktop\RezervEt - Test4 - Kopya 2\RezervEt\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\umitkoc\Desktop\RezervEt - Test4 - Kopya 2\RezervEt\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\umitkoc\Desktop\RezervEt - Test4 - Kopya 2\RezervEt\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\umitkoc\Desktop\RezervEt - Test4 - Kopya 2\RezervEt\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\umitkoc\Desktop\RezervEt - Test4 - Kopya 2\RezervEt\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\umitkoc\Desktop\RezervEt - Test4 - Kopya 2\RezervEt\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\umitkoc\Desktop\RezervEt - Test4 - Kopya 2\RezervEt\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\umitkoc\Desktop\RezervEt - Test4 - Kopya 2\RezervEt\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\umitkoc\Desktop\RezervEt - Test4 - Kopya 2\RezervEt\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\umitkoc\Desktop\RezervEt - Test4 - Kopya 2\RezervEt\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\umitkoc\Desktop\RezervEt - Test4 - Kopya 2\RezervEt\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\umitkoc\Desktop\RezervEt - Test4 - Kopya 2\RezervEt\bin\roslyn\System.AppContext.dll
+C:\Users\umitkoc\Desktop\RezervEt - Test4 - Kopya 2\RezervEt\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\umitkoc\Desktop\RezervEt - Test4 - Kopya 2\RezervEt\bin\roslyn\System.Console.dll
+C:\Users\umitkoc\Desktop\RezervEt - Test4 - Kopya 2\RezervEt\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\umitkoc\Desktop\RezervEt - Test4 - Kopya 2\RezervEt\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\umitkoc\Desktop\RezervEt - Test4 - Kopya 2\RezervEt\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\umitkoc\Desktop\RezervEt - Test4 - Kopya 2\RezervEt\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\umitkoc\Desktop\RezervEt - Test4 - Kopya 2\RezervEt\bin\roslyn\System.IO.Compression.dll
+C:\Users\umitkoc\Desktop\RezervEt - Test4 - Kopya 2\RezervEt\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\umitkoc\Desktop\RezervEt - Test4 - Kopya 2\RezervEt\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\umitkoc\Desktop\RezervEt - Test4 - Kopya 2\RezervEt\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\umitkoc\Desktop\RezervEt - Test4 - Kopya 2\RezervEt\bin\roslyn\System.Net.Http.dll
+C:\Users\umitkoc\Desktop\RezervEt - Test4 - Kopya 2\RezervEt\bin\roslyn\System.Net.Sockets.dll
+C:\Users\umitkoc\Desktop\RezervEt - Test4 - Kopya 2\RezervEt\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\umitkoc\Desktop\RezervEt - Test4 - Kopya 2\RezervEt\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\umitkoc\Desktop\RezervEt - Test4 - Kopya 2\RezervEt\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\umitkoc\Desktop\RezervEt - Test4 - Kopya 2\RezervEt\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\umitkoc\Desktop\RezervEt - Test4 - Kopya 2\RezervEt\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\umitkoc\Desktop\RezervEt - Test4 - Kopya 2\RezervEt\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\umitkoc\Desktop\RezervEt - Test4 - Kopya 2\RezervEt\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\umitkoc\Desktop\RezervEt - Test4 - Kopya 2\RezervEt\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\umitkoc\Desktop\RezervEt - Test4 - Kopya 2\RezervEt\bin\roslyn\System.ValueTuple.dll
+C:\Users\umitkoc\Desktop\RezervEt - Test4 - Kopya 2\RezervEt\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\umitkoc\Desktop\RezervEt - Test4 - Kopya 2\RezervEt\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\umitkoc\Desktop\RezervEt - Test4 - Kopya 2\RezervEt\bin\roslyn\System.Xml.XPath.dll
+C:\Users\umitkoc\Desktop\RezervEt - Test4 - Kopya 2\RezervEt\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\umitkoc\Desktop\RezervEt - Test4 - Kopya 2\RezervEt\bin\roslyn\vbc.exe
+C:\Users\umitkoc\Desktop\RezervEt - Test4 - Kopya 2\RezervEt\bin\roslyn\vbc.exe.config
+C:\Users\umitkoc\Desktop\RezervEt - Test4 - Kopya 2\RezervEt\bin\roslyn\vbc.rsp
+C:\Users\umitkoc\Desktop\RezervEt - Test4 - Kopya 2\RezervEt\bin\roslyn\VBCSCompiler.exe
+C:\Users\umitkoc\Desktop\RezervEt - Test4 - Kopya 2\RezervEt\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\umitkoc\Desktop\RezervEt - Test4 - Kopya 2\RezervEt\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\umitkoc\Desktop\RezervEt - Test4 - Kopya 2\RezervEt\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\umitkoc\Desktop\RezervEt - Test4 - Kopya 2\RezervEt\obj\Debug\RezervEt.csproj.AssemblyReference.cache
+C:\Users\umitkoc\Desktop\RezervEt - Test4 - Kopya 2\RezervEt\obj\Debug\RezervEt.csproj.CoreCompileInputs.cache
+C:\Users\umitkoc\Desktop\RezervEt - Test4 - Kopya 2\RezervEt\obj\Debug\RezervEt.csproj.CopyComplete
+C:\Users\umitkoc\Desktop\RezervEt - Test4 - Kopya 2\RezervEt\obj\Debug\RezervEt.dll
+C:\Users\umitkoc\Desktop\RezervEt - Test4 - Kopya 2\RezervEt\obj\Debug\RezervEt.pdb
+C:\Users\umitkoc\Desktop\RezervEt - Test4 - Kopya 2 - Kopya\RezervEt\bin\RezervEt.dll.config
+C:\Users\umitkoc\Desktop\RezervEt - Test4 - Kopya 2 - Kopya\RezervEt\bin\RezervEt.dll
+C:\Users\umitkoc\Desktop\RezervEt - Test4 - Kopya 2 - Kopya\RezervEt\bin\RezervEt.pdb
+C:\Users\umitkoc\Desktop\RezervEt - Test4 - Kopya 2 - Kopya\RezervEt\bin\roslyn\csc.exe
+C:\Users\umitkoc\Desktop\RezervEt - Test4 - Kopya 2 - Kopya\RezervEt\bin\roslyn\csc.exe.config
+C:\Users\umitkoc\Desktop\RezervEt - Test4 - Kopya 2 - Kopya\RezervEt\bin\roslyn\csc.rsp
+C:\Users\umitkoc\Desktop\RezervEt - Test4 - Kopya 2 - Kopya\RezervEt\bin\roslyn\csi.exe
+C:\Users\umitkoc\Desktop\RezervEt - Test4 - Kopya 2 - Kopya\RezervEt\bin\roslyn\csi.exe.config
+C:\Users\umitkoc\Desktop\RezervEt - Test4 - Kopya 2 - Kopya\RezervEt\bin\roslyn\csi.rsp
+C:\Users\umitkoc\Desktop\RezervEt - Test4 - Kopya 2 - Kopya\RezervEt\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\umitkoc\Desktop\RezervEt - Test4 - Kopya 2 - Kopya\RezervEt\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\umitkoc\Desktop\RezervEt - Test4 - Kopya 2 - Kopya\RezervEt\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\umitkoc\Desktop\RezervEt - Test4 - Kopya 2 - Kopya\RezervEt\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\umitkoc\Desktop\RezervEt - Test4 - Kopya 2 - Kopya\RezervEt\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\umitkoc\Desktop\RezervEt - Test4 - Kopya 2 - Kopya\RezervEt\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\umitkoc\Desktop\RezervEt - Test4 - Kopya 2 - Kopya\RezervEt\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\umitkoc\Desktop\RezervEt - Test4 - Kopya 2 - Kopya\RezervEt\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\umitkoc\Desktop\RezervEt - Test4 - Kopya 2 - Kopya\RezervEt\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\umitkoc\Desktop\RezervEt - Test4 - Kopya 2 - Kopya\RezervEt\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\umitkoc\Desktop\RezervEt - Test4 - Kopya 2 - Kopya\RezervEt\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\umitkoc\Desktop\RezervEt - Test4 - Kopya 2 - Kopya\RezervEt\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\umitkoc\Desktop\RezervEt - Test4 - Kopya 2 - Kopya\RezervEt\bin\roslyn\System.AppContext.dll
+C:\Users\umitkoc\Desktop\RezervEt - Test4 - Kopya 2 - Kopya\RezervEt\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\umitkoc\Desktop\RezervEt - Test4 - Kopya 2 - Kopya\RezervEt\bin\roslyn\System.Console.dll
+C:\Users\umitkoc\Desktop\RezervEt - Test4 - Kopya 2 - Kopya\RezervEt\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\umitkoc\Desktop\RezervEt - Test4 - Kopya 2 - Kopya\RezervEt\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\umitkoc\Desktop\RezervEt - Test4 - Kopya 2 - Kopya\RezervEt\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\umitkoc\Desktop\RezervEt - Test4 - Kopya 2 - Kopya\RezervEt\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\umitkoc\Desktop\RezervEt - Test4 - Kopya 2 - Kopya\RezervEt\bin\roslyn\System.IO.Compression.dll
+C:\Users\umitkoc\Desktop\RezervEt - Test4 - Kopya 2 - Kopya\RezervEt\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\umitkoc\Desktop\RezervEt - Test4 - Kopya 2 - Kopya\RezervEt\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\umitkoc\Desktop\RezervEt - Test4 - Kopya 2 - Kopya\RezervEt\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\umitkoc\Desktop\RezervEt - Test4 - Kopya 2 - Kopya\RezervEt\bin\roslyn\System.Net.Http.dll
+C:\Users\umitkoc\Desktop\RezervEt - Test4 - Kopya 2 - Kopya\RezervEt\bin\roslyn\System.Net.Sockets.dll
+C:\Users\umitkoc\Desktop\RezervEt - Test4 - Kopya 2 - Kopya\RezervEt\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\umitkoc\Desktop\RezervEt - Test4 - Kopya 2 - Kopya\RezervEt\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\umitkoc\Desktop\RezervEt - Test4 - Kopya 2 - Kopya\RezervEt\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\umitkoc\Desktop\RezervEt - Test4 - Kopya 2 - Kopya\RezervEt\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\umitkoc\Desktop\RezervEt - Test4 - Kopya 2 - Kopya\RezervEt\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\umitkoc\Desktop\RezervEt - Test4 - Kopya 2 - Kopya\RezervEt\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\umitkoc\Desktop\RezervEt - Test4 - Kopya 2 - Kopya\RezervEt\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\umitkoc\Desktop\RezervEt - Test4 - Kopya 2 - Kopya\RezervEt\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\umitkoc\Desktop\RezervEt - Test4 - Kopya 2 - Kopya\RezervEt\bin\roslyn\System.ValueTuple.dll
+C:\Users\umitkoc\Desktop\RezervEt - Test4 - Kopya 2 - Kopya\RezervEt\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\umitkoc\Desktop\RezervEt - Test4 - Kopya 2 - Kopya\RezervEt\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\umitkoc\Desktop\RezervEt - Test4 - Kopya 2 - Kopya\RezervEt\bin\roslyn\System.Xml.XPath.dll
+C:\Users\umitkoc\Desktop\RezervEt - Test4 - Kopya 2 - Kopya\RezervEt\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\umitkoc\Desktop\RezervEt - Test4 - Kopya 2 - Kopya\RezervEt\bin\roslyn\vbc.exe
+C:\Users\umitkoc\Desktop\RezervEt - Test4 - Kopya 2 - Kopya\RezervEt\bin\roslyn\vbc.exe.config
+C:\Users\umitkoc\Desktop\RezervEt - Test4 - Kopya 2 - Kopya\RezervEt\bin\roslyn\vbc.rsp
+C:\Users\umitkoc\Desktop\RezervEt - Test4 - Kopya 2 - Kopya\RezervEt\bin\roslyn\VBCSCompiler.exe
+C:\Users\umitkoc\Desktop\RezervEt - Test4 - Kopya 2 - Kopya\RezervEt\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\umitkoc\Desktop\RezervEt - Test4 - Kopya 2 - Kopya\RezervEt\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\umitkoc\Desktop\RezervEt - Test4 - Kopya 2 - Kopya\RezervEt\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\umitkoc\Desktop\RezervEt - Test4 - Kopya 2 - Kopya\RezervEt\obj\Debug\RezervEt.csproj.AssemblyReference.cache
+C:\Users\umitkoc\Desktop\RezervEt - Test4 - Kopya 2 - Kopya\RezervEt\obj\Debug\RezervEt.csproj.CoreCompileInputs.cache
+C:\Users\umitkoc\Desktop\RezervEt - Test4 - Kopya 2 - Kopya\RezervEt\obj\Debug\RezervEt.csproj.CopyComplete
+C:\Users\umitkoc\Desktop\RezervEt - Test4 - Kopya 2 - Kopya\RezervEt\obj\Debug\RezervEt.dll
+C:\Users\umitkoc\Desktop\RezervEt - Test4 - Kopya 2 - Kopya\RezervEt\obj\Debug\RezervEt.pdb
+C:\Users\umitkoc\Desktop\RezervEt - Test4 - Kopya 2 - Kopya - Kopya (2)\RezervEt\bin\RezervEt.dll.config
+C:\Users\umitkoc\Desktop\RezervEt - Test4 - Kopya 2 - Kopya - Kopya (2)\RezervEt\bin\RezervEt.dll
+C:\Users\umitkoc\Desktop\RezervEt - Test4 - Kopya 2 - Kopya - Kopya (2)\RezervEt\bin\RezervEt.pdb
+C:\Users\umitkoc\Desktop\RezervEt - Test4 - Kopya 2 - Kopya - Kopya (2)\RezervEt\bin\roslyn\csc.exe
+C:\Users\umitkoc\Desktop\RezervEt - Test4 - Kopya 2 - Kopya - Kopya (2)\RezervEt\bin\roslyn\csc.exe.config
+C:\Users\umitkoc\Desktop\RezervEt - Test4 - Kopya 2 - Kopya - Kopya (2)\RezervEt\bin\roslyn\csc.rsp
+C:\Users\umitkoc\Desktop\RezervEt - Test4 - Kopya 2 - Kopya - Kopya (2)\RezervEt\bin\roslyn\csi.exe
+C:\Users\umitkoc\Desktop\RezervEt - Test4 - Kopya 2 - Kopya - Kopya (2)\RezervEt\bin\roslyn\csi.exe.config
+C:\Users\umitkoc\Desktop\RezervEt - Test4 - Kopya 2 - Kopya - Kopya (2)\RezervEt\bin\roslyn\csi.rsp
+C:\Users\umitkoc\Desktop\RezervEt - Test4 - Kopya 2 - Kopya - Kopya (2)\RezervEt\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\umitkoc\Desktop\RezervEt - Test4 - Kopya 2 - Kopya - Kopya (2)\RezervEt\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\umitkoc\Desktop\RezervEt - Test4 - Kopya 2 - Kopya - Kopya (2)\RezervEt\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\umitkoc\Desktop\RezervEt - Test4 - Kopya 2 - Kopya - Kopya (2)\RezervEt\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\umitkoc\Desktop\RezervEt - Test4 - Kopya 2 - Kopya - Kopya (2)\RezervEt\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\umitkoc\Desktop\RezervEt - Test4 - Kopya 2 - Kopya - Kopya (2)\RezervEt\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\umitkoc\Desktop\RezervEt - Test4 - Kopya 2 - Kopya - Kopya (2)\RezervEt\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\umitkoc\Desktop\RezervEt - Test4 - Kopya 2 - Kopya - Kopya (2)\RezervEt\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\umitkoc\Desktop\RezervEt - Test4 - Kopya 2 - Kopya - Kopya (2)\RezervEt\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\umitkoc\Desktop\RezervEt - Test4 - Kopya 2 - Kopya - Kopya (2)\RezervEt\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\umitkoc\Desktop\RezervEt - Test4 - Kopya 2 - Kopya - Kopya (2)\RezervEt\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\umitkoc\Desktop\RezervEt - Test4 - Kopya 2 - Kopya - Kopya (2)\RezervEt\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\umitkoc\Desktop\RezervEt - Test4 - Kopya 2 - Kopya - Kopya (2)\RezervEt\bin\roslyn\System.AppContext.dll
+C:\Users\umitkoc\Desktop\RezervEt - Test4 - Kopya 2 - Kopya - Kopya (2)\RezervEt\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\umitkoc\Desktop\RezervEt - Test4 - Kopya 2 - Kopya - Kopya (2)\RezervEt\bin\roslyn\System.Console.dll
+C:\Users\umitkoc\Desktop\RezervEt - Test4 - Kopya 2 - Kopya - Kopya (2)\RezervEt\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\umitkoc\Desktop\RezervEt - Test4 - Kopya 2 - Kopya - Kopya (2)\RezervEt\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\umitkoc\Desktop\RezervEt - Test4 - Kopya 2 - Kopya - Kopya (2)\RezervEt\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\umitkoc\Desktop\RezervEt - Test4 - Kopya 2 - Kopya - Kopya (2)\RezervEt\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\umitkoc\Desktop\RezervEt - Test4 - Kopya 2 - Kopya - Kopya (2)\RezervEt\bin\roslyn\System.IO.Compression.dll
+C:\Users\umitkoc\Desktop\RezervEt - Test4 - Kopya 2 - Kopya - Kopya (2)\RezervEt\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\umitkoc\Desktop\RezervEt - Test4 - Kopya 2 - Kopya - Kopya (2)\RezervEt\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\umitkoc\Desktop\RezervEt - Test4 - Kopya 2 - Kopya - Kopya (2)\RezervEt\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\umitkoc\Desktop\RezervEt - Test4 - Kopya 2 - Kopya - Kopya (2)\RezervEt\bin\roslyn\System.Net.Http.dll
+C:\Users\umitkoc\Desktop\RezervEt - Test4 - Kopya 2 - Kopya - Kopya (2)\RezervEt\bin\roslyn\System.Net.Sockets.dll
+C:\Users\umitkoc\Desktop\RezervEt - Test4 - Kopya 2 - Kopya - Kopya (2)\RezervEt\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\umitkoc\Desktop\RezervEt - Test4 - Kopya 2 - Kopya - Kopya (2)\RezervEt\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\umitkoc\Desktop\RezervEt - Test4 - Kopya 2 - Kopya - Kopya (2)\RezervEt\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\umitkoc\Desktop\RezervEt - Test4 - Kopya 2 - Kopya - Kopya (2)\RezervEt\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\umitkoc\Desktop\RezervEt - Test4 - Kopya 2 - Kopya - Kopya (2)\RezervEt\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\umitkoc\Desktop\RezervEt - Test4 - Kopya 2 - Kopya - Kopya (2)\RezervEt\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\umitkoc\Desktop\RezervEt - Test4 - Kopya 2 - Kopya - Kopya (2)\RezervEt\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\umitkoc\Desktop\RezervEt - Test4 - Kopya 2 - Kopya - Kopya (2)\RezervEt\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\umitkoc\Desktop\RezervEt - Test4 - Kopya 2 - Kopya - Kopya (2)\RezervEt\bin\roslyn\System.ValueTuple.dll
+C:\Users\umitkoc\Desktop\RezervEt - Test4 - Kopya 2 - Kopya - Kopya (2)\RezervEt\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\umitkoc\Desktop\RezervEt - Test4 - Kopya 2 - Kopya - Kopya (2)\RezervEt\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\umitkoc\Desktop\RezervEt - Test4 - Kopya 2 - Kopya - Kopya (2)\RezervEt\bin\roslyn\System.Xml.XPath.dll
+C:\Users\umitkoc\Desktop\RezervEt - Test4 - Kopya 2 - Kopya - Kopya (2)\RezervEt\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\umitkoc\Desktop\RezervEt - Test4 - Kopya 2 - Kopya - Kopya (2)\RezervEt\bin\roslyn\vbc.exe
+C:\Users\umitkoc\Desktop\RezervEt - Test4 - Kopya 2 - Kopya - Kopya (2)\RezervEt\bin\roslyn\vbc.exe.config
+C:\Users\umitkoc\Desktop\RezervEt - Test4 - Kopya 2 - Kopya - Kopya (2)\RezervEt\bin\roslyn\vbc.rsp
+C:\Users\umitkoc\Desktop\RezervEt - Test4 - Kopya 2 - Kopya - Kopya (2)\RezervEt\bin\roslyn\VBCSCompiler.exe
+C:\Users\umitkoc\Desktop\RezervEt - Test4 - Kopya 2 - Kopya - Kopya (2)\RezervEt\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\umitkoc\Desktop\RezervEt - Test4 - Kopya 2 - Kopya - Kopya (2)\RezervEt\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\umitkoc\Desktop\RezervEt - Test4 - Kopya 2 - Kopya - Kopya (2)\RezervEt\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\umitkoc\Desktop\RezervEt - Test4 - Kopya 2 - Kopya - Kopya (2)\RezervEt\obj\Debug\RezervEt.csproj.AssemblyReference.cache
+C:\Users\umitkoc\Desktop\RezervEt - Test4 - Kopya 2 - Kopya - Kopya (2)\RezervEt\obj\Debug\RezervEt.csproj.CoreCompileInputs.cache
+C:\Users\umitkoc\Desktop\RezervEt - Test4 - Kopya 2 - Kopya - Kopya (2)\RezervEt\obj\Debug\RezervEt.csproj.CopyComplete
+C:\Users\umitkoc\Desktop\RezervEt - Test4 - Kopya 2 - Kopya - Kopya (2)\RezervEt\obj\Debug\RezervEt.dll
+C:\Users\umitkoc\Desktop\RezervEt - Test4 - Kopya 2 - Kopya - Kopya (2)\RezervEt\obj\Debug\RezervEt.pdb
+C:\Users\umitkoc\Desktop\RezervEt - Test4 - Kopya 2 - Kopya - Kopya (2) - Kopya\RezervEt\bin\RezervEt.dll.config
+C:\Users\umitkoc\Desktop\RezervEt - Test4 - Kopya 2 - Kopya - Kopya (2) - Kopya\RezervEt\bin\RezervEt.dll
+C:\Users\umitkoc\Desktop\RezervEt - Test4 - Kopya 2 - Kopya - Kopya (2) - Kopya\RezervEt\bin\RezervEt.pdb
+C:\Users\umitkoc\Desktop\RezervEt - Test4 - Kopya 2 - Kopya - Kopya (2) - Kopya\RezervEt\bin\roslyn\csc.exe
+C:\Users\umitkoc\Desktop\RezervEt - Test4 - Kopya 2 - Kopya - Kopya (2) - Kopya\RezervEt\bin\roslyn\csc.exe.config
+C:\Users\umitkoc\Desktop\RezervEt - Test4 - Kopya 2 - Kopya - Kopya (2) - Kopya\RezervEt\bin\roslyn\csc.rsp
+C:\Users\umitkoc\Desktop\RezervEt - Test4 - Kopya 2 - Kopya - Kopya (2) - Kopya\RezervEt\bin\roslyn\csi.exe
+C:\Users\umitkoc\Desktop\RezervEt - Test4 - Kopya 2 - Kopya - Kopya (2) - Kopya\RezervEt\bin\roslyn\csi.exe.config
+C:\Users\umitkoc\Desktop\RezervEt - Test4 - Kopya 2 - Kopya - Kopya (2) - Kopya\RezervEt\bin\roslyn\csi.rsp
+C:\Users\umitkoc\Desktop\RezervEt - Test4 - Kopya 2 - Kopya - Kopya (2) - Kopya\RezervEt\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\umitkoc\Desktop\RezervEt - Test4 - Kopya 2 - Kopya - Kopya (2) - Kopya\RezervEt\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\umitkoc\Desktop\RezervEt - Test4 - Kopya 2 - Kopya - Kopya (2) - Kopya\RezervEt\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\umitkoc\Desktop\RezervEt - Test4 - Kopya 2 - Kopya - Kopya (2) - Kopya\RezervEt\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\umitkoc\Desktop\RezervEt - Test4 - Kopya 2 - Kopya - Kopya (2) - Kopya\RezervEt\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\umitkoc\Desktop\RezervEt - Test4 - Kopya 2 - Kopya - Kopya (2) - Kopya\RezervEt\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\umitkoc\Desktop\RezervEt - Test4 - Kopya 2 - Kopya - Kopya (2) - Kopya\RezervEt\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\umitkoc\Desktop\RezervEt - Test4 - Kopya 2 - Kopya - Kopya (2) - Kopya\RezervEt\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\umitkoc\Desktop\RezervEt - Test4 - Kopya 2 - Kopya - Kopya (2) - Kopya\RezervEt\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\umitkoc\Desktop\RezervEt - Test4 - Kopya 2 - Kopya - Kopya (2) - Kopya\RezervEt\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\umitkoc\Desktop\RezervEt - Test4 - Kopya 2 - Kopya - Kopya (2) - Kopya\RezervEt\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\umitkoc\Desktop\RezervEt - Test4 - Kopya 2 - Kopya - Kopya (2) - Kopya\RezervEt\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\umitkoc\Desktop\RezervEt - Test4 - Kopya 2 - Kopya - Kopya (2) - Kopya\RezervEt\bin\roslyn\System.AppContext.dll
+C:\Users\umitkoc\Desktop\RezervEt - Test4 - Kopya 2 - Kopya - Kopya (2) - Kopya\RezervEt\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\umitkoc\Desktop\RezervEt - Test4 - Kopya 2 - Kopya - Kopya (2) - Kopya\RezervEt\bin\roslyn\System.Console.dll
+C:\Users\umitkoc\Desktop\RezervEt - Test4 - Kopya 2 - Kopya - Kopya (2) - Kopya\RezervEt\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\umitkoc\Desktop\RezervEt - Test4 - Kopya 2 - Kopya - Kopya (2) - Kopya\RezervEt\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\umitkoc\Desktop\RezervEt - Test4 - Kopya 2 - Kopya - Kopya (2) - Kopya\RezervEt\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\umitkoc\Desktop\RezervEt - Test4 - Kopya 2 - Kopya - Kopya (2) - Kopya\RezervEt\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\umitkoc\Desktop\RezervEt - Test4 - Kopya 2 - Kopya - Kopya (2) - Kopya\RezervEt\bin\roslyn\System.IO.Compression.dll
+C:\Users\umitkoc\Desktop\RezervEt - Test4 - Kopya 2 - Kopya - Kopya (2) - Kopya\RezervEt\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\umitkoc\Desktop\RezervEt - Test4 - Kopya 2 - Kopya - Kopya (2) - Kopya\RezervEt\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\umitkoc\Desktop\RezervEt - Test4 - Kopya 2 - Kopya - Kopya (2) - Kopya\RezervEt\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\umitkoc\Desktop\RezervEt - Test4 - Kopya 2 - Kopya - Kopya (2) - Kopya\RezervEt\bin\roslyn\System.Net.Http.dll
+C:\Users\umitkoc\Desktop\RezervEt - Test4 - Kopya 2 - Kopya - Kopya (2) - Kopya\RezervEt\bin\roslyn\System.Net.Sockets.dll
+C:\Users\umitkoc\Desktop\RezervEt - Test4 - Kopya 2 - Kopya - Kopya (2) - Kopya\RezervEt\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\umitkoc\Desktop\RezervEt - Test4 - Kopya 2 - Kopya - Kopya (2) - Kopya\RezervEt\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\umitkoc\Desktop\RezervEt - Test4 - Kopya 2 - Kopya - Kopya (2) - Kopya\RezervEt\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\umitkoc\Desktop\RezervEt - Test4 - Kopya 2 - Kopya - Kopya (2) - Kopya\RezervEt\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\umitkoc\Desktop\RezervEt - Test4 - Kopya 2 - Kopya - Kopya (2) - Kopya\RezervEt\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\umitkoc\Desktop\RezervEt - Test4 - Kopya 2 - Kopya - Kopya (2) - Kopya\RezervEt\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\umitkoc\Desktop\RezervEt - Test4 - Kopya 2 - Kopya - Kopya (2) - Kopya\RezervEt\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\umitkoc\Desktop\RezervEt - Test4 - Kopya 2 - Kopya - Kopya (2) - Kopya\RezervEt\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\umitkoc\Desktop\RezervEt - Test4 - Kopya 2 - Kopya - Kopya (2) - Kopya\RezervEt\bin\roslyn\System.ValueTuple.dll
+C:\Users\umitkoc\Desktop\RezervEt - Test4 - Kopya 2 - Kopya - Kopya (2) - Kopya\RezervEt\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\umitkoc\Desktop\RezervEt - Test4 - Kopya 2 - Kopya - Kopya (2) - Kopya\RezervEt\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\umitkoc\Desktop\RezervEt - Test4 - Kopya 2 - Kopya - Kopya (2) - Kopya\RezervEt\bin\roslyn\System.Xml.XPath.dll
+C:\Users\umitkoc\Desktop\RezervEt - Test4 - Kopya 2 - Kopya - Kopya (2) - Kopya\RezervEt\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\umitkoc\Desktop\RezervEt - Test4 - Kopya 2 - Kopya - Kopya (2) - Kopya\RezervEt\bin\roslyn\vbc.exe
+C:\Users\umitkoc\Desktop\RezervEt - Test4 - Kopya 2 - Kopya - Kopya (2) - Kopya\RezervEt\bin\roslyn\vbc.exe.config
+C:\Users\umitkoc\Desktop\RezervEt - Test4 - Kopya 2 - Kopya - Kopya (2) - Kopya\RezervEt\bin\roslyn\vbc.rsp
+C:\Users\umitkoc\Desktop\RezervEt - Test4 - Kopya 2 - Kopya - Kopya (2) - Kopya\RezervEt\bin\roslyn\VBCSCompiler.exe
+C:\Users\umitkoc\Desktop\RezervEt - Test4 - Kopya 2 - Kopya - Kopya (2) - Kopya\RezervEt\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\umitkoc\Desktop\RezervEt - Test4 - Kopya 2 - Kopya - Kopya (2) - Kopya\RezervEt\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\umitkoc\Desktop\RezervEt - Test4 - Kopya 2 - Kopya - Kopya (2) - Kopya\RezervEt\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\umitkoc\Desktop\RezervEt - Test4 - Kopya 2 - Kopya - Kopya (2) - Kopya\RezervEt\obj\Debug\RezervEt.csproj.AssemblyReference.cache
+C:\Users\umitkoc\Desktop\RezervEt - Test4 - Kopya 2 - Kopya - Kopya (2) - Kopya\RezervEt\obj\Debug\RezervEt.csproj.CoreCompileInputs.cache
+C:\Users\umitkoc\Desktop\RezervEt - Test4 - Kopya 2 - Kopya - Kopya (2) - Kopya\RezervEt\obj\Debug\RezervEt.csproj.CopyComplete
+C:\Users\umitkoc\Desktop\RezervEt - Test4 - Kopya 2 - Kopya - Kopya (2) - Kopya\RezervEt\obj\Debug\RezervEt.dll
+C:\Users\umitkoc\Desktop\RezervEt - Test4 - Kopya 2 - Kopya - Kopya (2) - Kopya\RezervEt\obj\Debug\RezervEt.pdb
+C:\Users\umitkoc\Desktop\16211625011-ÜmitKOÇ-06.01.2023\RezervEt\RezervEt\bin\RezervEt.dll.config
+C:\Users\umitkoc\Desktop\16211625011-ÜmitKOÇ-06.01.2023\RezervEt\RezervEt\bin\RezervEt.dll
+C:\Users\umitkoc\Desktop\16211625011-ÜmitKOÇ-06.01.2023\RezervEt\RezervEt\bin\RezervEt.pdb
+C:\Users\umitkoc\Desktop\16211625011-ÜmitKOÇ-06.01.2023\RezervEt\RezervEt\bin\roslyn\csc.exe
+C:\Users\umitkoc\Desktop\16211625011-ÜmitKOÇ-06.01.2023\RezervEt\RezervEt\bin\roslyn\csc.exe.config
+C:\Users\umitkoc\Desktop\16211625011-ÜmitKOÇ-06.01.2023\RezervEt\RezervEt\bin\roslyn\csc.rsp
+C:\Users\umitkoc\Desktop\16211625011-ÜmitKOÇ-06.01.2023\RezervEt\RezervEt\bin\roslyn\csi.exe
+C:\Users\umitkoc\Desktop\16211625011-ÜmitKOÇ-06.01.2023\RezervEt\RezervEt\bin\roslyn\csi.exe.config
+C:\Users\umitkoc\Desktop\16211625011-ÜmitKOÇ-06.01.2023\RezervEt\RezervEt\bin\roslyn\csi.rsp
+C:\Users\umitkoc\Desktop\16211625011-ÜmitKOÇ-06.01.2023\RezervEt\RezervEt\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\umitkoc\Desktop\16211625011-ÜmitKOÇ-06.01.2023\RezervEt\RezervEt\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\umitkoc\Desktop\16211625011-ÜmitKOÇ-06.01.2023\RezervEt\RezervEt\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\umitkoc\Desktop\16211625011-ÜmitKOÇ-06.01.2023\RezervEt\RezervEt\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\umitkoc\Desktop\16211625011-ÜmitKOÇ-06.01.2023\RezervEt\RezervEt\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\umitkoc\Desktop\16211625011-ÜmitKOÇ-06.01.2023\RezervEt\RezervEt\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\umitkoc\Desktop\16211625011-ÜmitKOÇ-06.01.2023\RezervEt\RezervEt\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\umitkoc\Desktop\16211625011-ÜmitKOÇ-06.01.2023\RezervEt\RezervEt\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\umitkoc\Desktop\16211625011-ÜmitKOÇ-06.01.2023\RezervEt\RezervEt\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\umitkoc\Desktop\16211625011-ÜmitKOÇ-06.01.2023\RezervEt\RezervEt\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\umitkoc\Desktop\16211625011-ÜmitKOÇ-06.01.2023\RezervEt\RezervEt\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\umitkoc\Desktop\16211625011-ÜmitKOÇ-06.01.2023\RezervEt\RezervEt\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\umitkoc\Desktop\16211625011-ÜmitKOÇ-06.01.2023\RezervEt\RezervEt\bin\roslyn\System.AppContext.dll
+C:\Users\umitkoc\Desktop\16211625011-ÜmitKOÇ-06.01.2023\RezervEt\RezervEt\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\umitkoc\Desktop\16211625011-ÜmitKOÇ-06.01.2023\RezervEt\RezervEt\bin\roslyn\System.Console.dll
+C:\Users\umitkoc\Desktop\16211625011-ÜmitKOÇ-06.01.2023\RezervEt\RezervEt\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\umitkoc\Desktop\16211625011-ÜmitKOÇ-06.01.2023\RezervEt\RezervEt\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\umitkoc\Desktop\16211625011-ÜmitKOÇ-06.01.2023\RezervEt\RezervEt\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\umitkoc\Desktop\16211625011-ÜmitKOÇ-06.01.2023\RezervEt\RezervEt\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\umitkoc\Desktop\16211625011-ÜmitKOÇ-06.01.2023\RezervEt\RezervEt\bin\roslyn\System.IO.Compression.dll
+C:\Users\umitkoc\Desktop\16211625011-ÜmitKOÇ-06.01.2023\RezervEt\RezervEt\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\umitkoc\Desktop\16211625011-ÜmitKOÇ-06.01.2023\RezervEt\RezervEt\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\umitkoc\Desktop\16211625011-ÜmitKOÇ-06.01.2023\RezervEt\RezervEt\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\umitkoc\Desktop\16211625011-ÜmitKOÇ-06.01.2023\RezervEt\RezervEt\bin\roslyn\System.Net.Http.dll
+C:\Users\umitkoc\Desktop\16211625011-ÜmitKOÇ-06.01.2023\RezervEt\RezervEt\bin\roslyn\System.Net.Sockets.dll
+C:\Users\umitkoc\Desktop\16211625011-ÜmitKOÇ-06.01.2023\RezervEt\RezervEt\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\umitkoc\Desktop\16211625011-ÜmitKOÇ-06.01.2023\RezervEt\RezervEt\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\umitkoc\Desktop\16211625011-ÜmitKOÇ-06.01.2023\RezervEt\RezervEt\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\umitkoc\Desktop\16211625011-ÜmitKOÇ-06.01.2023\RezervEt\RezervEt\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\umitkoc\Desktop\16211625011-ÜmitKOÇ-06.01.2023\RezervEt\RezervEt\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\umitkoc\Desktop\16211625011-ÜmitKOÇ-06.01.2023\RezervEt\RezervEt\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\umitkoc\Desktop\16211625011-ÜmitKOÇ-06.01.2023\RezervEt\RezervEt\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\umitkoc\Desktop\16211625011-ÜmitKOÇ-06.01.2023\RezervEt\RezervEt\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\umitkoc\Desktop\16211625011-ÜmitKOÇ-06.01.2023\RezervEt\RezervEt\bin\roslyn\System.ValueTuple.dll
+C:\Users\umitkoc\Desktop\16211625011-ÜmitKOÇ-06.01.2023\RezervEt\RezervEt\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\umitkoc\Desktop\16211625011-ÜmitKOÇ-06.01.2023\RezervEt\RezervEt\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\umitkoc\Desktop\16211625011-ÜmitKOÇ-06.01.2023\RezervEt\RezervEt\bin\roslyn\System.Xml.XPath.dll
+C:\Users\umitkoc\Desktop\16211625011-ÜmitKOÇ-06.01.2023\RezervEt\RezervEt\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\umitkoc\Desktop\16211625011-ÜmitKOÇ-06.01.2023\RezervEt\RezervEt\bin\roslyn\vbc.exe
+C:\Users\umitkoc\Desktop\16211625011-ÜmitKOÇ-06.01.2023\RezervEt\RezervEt\bin\roslyn\vbc.exe.config
+C:\Users\umitkoc\Desktop\16211625011-ÜmitKOÇ-06.01.2023\RezervEt\RezervEt\bin\roslyn\vbc.rsp
+C:\Users\umitkoc\Desktop\16211625011-ÜmitKOÇ-06.01.2023\RezervEt\RezervEt\bin\roslyn\VBCSCompiler.exe
+C:\Users\umitkoc\Desktop\16211625011-ÜmitKOÇ-06.01.2023\RezervEt\RezervEt\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\umitkoc\Desktop\16211625011-ÜmitKOÇ-06.01.2023\RezervEt\RezervEt\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\umitkoc\Desktop\16211625011-ÜmitKOÇ-06.01.2023\RezervEt\RezervEt\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\umitkoc\Desktop\16211625011-ÜmitKOÇ-06.01.2023\RezervEt\RezervEt\obj\Debug\RezervEt.csproj.AssemblyReference.cache
+C:\Users\umitkoc\Desktop\16211625011-ÜmitKOÇ-06.01.2023\RezervEt\RezervEt\obj\Debug\RezervEt.csproj.CoreCompileInputs.cache
+C:\Users\umitkoc\Desktop\16211625011-ÜmitKOÇ-06.01.2023\RezervEt\RezervEt\obj\Debug\RezervEt.csproj.CopyComplete
+C:\Users\umitkoc\Desktop\16211625011-ÜmitKOÇ-06.01.2023\RezervEt\RezervEt\obj\Debug\RezervEt.dll
+C:\Users\umitkoc\Desktop\16211625011-ÜmitKOÇ-06.01.2023\RezervEt\RezervEt\obj\Debug\RezervEt.pdb

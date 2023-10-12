@@ -1,0 +1,442 @@
+﻿<Project ToolsVersion="15.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\build\net46\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props" Condition="Exists('..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\build\net46\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props')" />
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{6BEA66A8-C4DD-424E-AF05-FCEF0519EBCD}</ProjectGuid>
+    <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>RezervEt</RootNamespace>
+    <AssemblyName>RezervEt</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <UseIISExpress>true</UseIISExpress>
+    <Use64BitIISExpress />
+    <IISExpressSSLPort>44316</IISExpressSSLPort>
+    <IISExpressAnonymousAuthentication />
+    <IISExpressWindowsAuthentication />
+    <IISExpressUseClassicPipelineMode />
+    <UseGlobalApplicationHostFile />
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Web.DynamicData" />
+    <Reference Include="System.Web.Entity" />
+    <Reference Include="System.Web.ApplicationServices" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.EnterpriseServices" />
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.CodeDom.Providers.DotNetCompilerPlatform">
+      <HintPath>..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\lib\net45\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="css\admin.css" />
+    <Content Include="css\giris.css" />
+    <Content Include="css\rezervasyon.css" />
+    <Content Include="css\search.css" />
+    <Content Include="css\style.css" />
+    <Content Include="giris.aspx" />
+    <Content Include="Hakkimizda.aspx" />
+    <Content Include="Hesap.aspx" />
+    <Content Include="Iletisim.aspx" />
+    <Content Include="images\restorant\01.jpg" />
+    <Content Include="images\restorant\02.jpg" />
+    <Content Include="images\restorant\03.jpg" />
+    <Content Include="images\restorant\04.jpg" />
+    <Content Include="images\cta-banner.png" />
+    <Content Include="images\favicon.svg" />
+    <Content Include="images\hero-bg2.png" />
+    <Content Include="images\star-sky.jpg" />
+    <Content Include="images\testimonial-banner.png" />
+    <Content Include="images\hero-banner.png" />
+    <Content Include="images\hero-bg.png" />
+    <Content Include="images\log.svg" />
+    <Content Include="images\logo-footer.svg" />
+    <Content Include="images\logo.svg" />
+    <Content Include="images\newsletter-banenr.png" />
+    <Content Include="images\register.svg" />
+    <Content Include="images\rest-1.jpg" />
+    <Content Include="images\rest-2.jpg" />
+    <Content Include="images\rest-3.jpg" />
+    <Content Include="images\rest-4.jpg" />
+    <Content Include="images\rest-5.jpg" />
+    <Content Include="images\rest-6.jpg" />
+    <Content Include="images\restaurant_1.jpg" />
+    <Content Include="images\restaurant_2.jpg" />
+    <Content Include="images\restaurant_3.jpg" />
+    <Content Include="images\testi-shape.svg" />
+    <Content Include="default.aspx" />
+    <Content Include="java\kayit-giris.js" />
+    <Content Include="java\rezervasyon.js" />
+    <Content Include="java\search.js" />
+    <Content Include="Restaurantlar.aspx" />
+    <Content Include="java\script.js" />
+    <Content Include="Rezervasyon.aspx" />
+    <Content Include="Web.config" />
+    <Content Include="Yonetim\assets\css\style.css" />
+    <Content Include="Yonetim\assets\images\dashboard\circle.png" />
+    <Content Include="Yonetim\assets\images\dashboard\circle.svg" />
+    <Content Include="Yonetim\assets\images\dashboard\img_1.jpg" />
+    <Content Include="Yonetim\assets\images\dashboard\img_2.jpg" />
+    <Content Include="Yonetim\assets\images\dashboard\img_3.jpg" />
+    <Content Include="Yonetim\assets\images\dashboard\img_4.jpg" />
+    <Content Include="Yonetim\assets\images\faces-clipart\pic-1.png" />
+    <Content Include="Yonetim\assets\images\faces-clipart\pic-2.png" />
+    <Content Include="Yonetim\assets\images\faces-clipart\pic-3.png" />
+    <Content Include="Yonetim\assets\images\faces-clipart\pic-4.png" />
+    <Content Include="Yonetim\assets\images\faces\face.png" />
+    <Content Include="Yonetim\assets\images\faces\face1.jpg" />
+    <Content Include="Yonetim\assets\images\faces\face10.jpg" />
+    <Content Include="Yonetim\assets\images\faces\face11.jpg" />
+    <Content Include="Yonetim\assets\images\faces\face12.jpg" />
+    <Content Include="Yonetim\assets\images\faces\face13.jpg" />
+    <Content Include="Yonetim\assets\images\faces\face14.jpg" />
+    <Content Include="Yonetim\assets\images\faces\face15.jpg" />
+    <Content Include="Yonetim\assets\images\faces\face16.jpg" />
+    <Content Include="Yonetim\assets\images\faces\face17.jpg" />
+    <Content Include="Yonetim\assets\images\faces\face18.jpg" />
+    <Content Include="Yonetim\assets\images\faces\face19.jpg" />
+    <Content Include="Yonetim\assets\images\faces\face2.jpg" />
+    <Content Include="Yonetim\assets\images\faces\face20.jpg" />
+    <Content Include="Yonetim\assets\images\faces\face21.jpg" />
+    <Content Include="Yonetim\assets\images\faces\face22.jpg" />
+    <Content Include="Yonetim\assets\images\faces\face23.jpg" />
+    <Content Include="Yonetim\assets\images\faces\face24.jpg" />
+    <Content Include="Yonetim\assets\images\faces\face25.jpg" />
+    <Content Include="Yonetim\assets\images\faces\face26.jpg" />
+    <Content Include="Yonetim\assets\images\faces\face27.jpg" />
+    <Content Include="Yonetim\assets\images\faces\face3.jpg" />
+    <Content Include="Yonetim\assets\images\faces\face4.jpg" />
+    <Content Include="Yonetim\assets\images\faces\face5.jpg" />
+    <Content Include="Yonetim\assets\images\faces\face6.jpg" />
+    <Content Include="Yonetim\assets\images\faces\face7.jpg" />
+    <Content Include="Yonetim\assets\images\faces\face8.jpg" />
+    <Content Include="Yonetim\assets\images\faces\face9.jpg" />
+    <Content Include="Yonetim\assets\images\favicon.ico" />
+    <Content Include="Yonetim\assets\images\favicon.svg" />
+    <Content Include="Yonetim\assets\images\logo-mini.svg" />
+    <Content Include="Yonetim\assets\images\logo.svg" />
+    <Content Include="Yonetim\assets\images\sprites\blue.png" />
+    <Content Include="Yonetim\assets\images\sprites\dark.png" />
+    <Content Include="Yonetim\assets\images\sprites\flag.png" />
+    <Content Include="Yonetim\assets\images\sprites\green.png" />
+    <Content Include="Yonetim\assets\images\sprites\jsgrid-icons.png" />
+    <Content Include="Yonetim\assets\images\sprites\red.png" />
+    <Content Include="Yonetim\assets\images\sprites\yellow.png" />
+    <Content Include="Yonetim\assets\js\chart.js" />
+    <Content Include="Yonetim\assets\js\dashboard.js" />
+    <Content Include="Yonetim\assets\js\file-upload.js" />
+    <Content Include="Yonetim\assets\js\hoverable-collapse.js" />
+    <Content Include="Yonetim\assets\js\jquery.cookie.js" />
+    <Content Include="Yonetim\assets\js\misc.js" />
+    <Content Include="Yonetim\assets\js\off-canvas.js" />
+    <Content Include="Yonetim\assets\js\todo.js" />
+    <Content Include="Yonetim\assets\js\todolist.js" />
+    <Content Include="Yonetim\assets\vendors\chart.js\Chart.min.js" />
+    <Content Include="Yonetim\assets\vendors\css\vendor.bundle.base.css" />
+    <Content Include="Yonetim\assets\vendors\js\vendor.bundle.base.js" />
+    <Content Include="Yonetim\assets\vendors\mdi\css\materialdesignicons.min.css" />
+    <Content Include="Yonetim\default.aspx" />
+    <Content Include="Yonetim\HakkimdaDuzenle.aspx" />
+    <Content Include="Yonetim\IletisimDuzenle.aspx" />
+    <Content Include="Yonetim\Kullanici.aspx" />
+    <Content Include="Yonetim\Mesajlar.aspx" />
+    <Content Include="Yonetim\RestorantEkle.aspx" />
+    <Content Include="Yonetim\RestorantDuzenleSil.aspx" />
+    <Content Include="Yonetim\Rezervasyon.aspx" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AnaSayfa.Master.cs">
+      <DependentUpon>AnaSayfa.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="AnaSayfa.Master.designer.cs">
+      <DependentUpon>AnaSayfa.Master</DependentUpon>
+    </Compile>
+    <Compile Include="default.aspx.cs">
+      <DependentUpon>default.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="default.aspx.designer.cs">
+      <DependentUpon>default.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="giris.aspx.cs">
+      <DependentUpon>giris.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="giris.aspx.designer.cs">
+      <DependentUpon>giris.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Hakkimizda.aspx.cs">
+      <DependentUpon>Hakkimizda.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Hakkimizda.aspx.designer.cs">
+      <DependentUpon>Hakkimizda.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Hesap.aspx.cs">
+      <DependentUpon>Hesap.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Hesap.aspx.designer.cs">
+      <DependentUpon>Hesap.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Iletisim.aspx.cs">
+      <DependentUpon>Iletisim.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Iletisim.aspx.designer.cs">
+      <DependentUpon>Iletisim.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+      <DependentUpon>Settings.settings</DependentUpon>
+    </Compile>
+    <Compile Include="Restaurantlar.aspx.cs">
+      <DependentUpon>Restaurantlar.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Restaurantlar.aspx.designer.cs">
+      <DependentUpon>Restaurantlar.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Rezervasyon.aspx.cs">
+      <DependentUpon>Rezervasyon.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Rezervasyon.aspx.designer.cs">
+      <DependentUpon>Rezervasyon.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="VeriBaglanti\AnaSayfaGun.cs" />
+    <Compile Include="VeriBaglanti\Baglan.cs" />
+    <Compile Include="VeriBaglanti\Bilgi.cs" />
+    <Compile Include="VeriBaglanti\HakkimdaGun.cs" />
+    <Compile Include="VeriBaglanti\IletisimGun.cs" />
+    <Compile Include="VeriBaglanti\KullaniciGun.cs" />
+    <Compile Include="VeriBaglanti\KullaniciLogin.cs" />
+    <Compile Include="VeriBaglanti\MesajGun.cs" />
+    <Compile Include="VeriBaglanti\RestoranlarGun.cs" />
+    <Compile Include="VeriBaglanti\RezervasyonGun.cs" />
+    <Compile Include="VeriBaglanti\SiteGenelGun.cs" />
+    <Compile Include="Yonetim\Admin.Master.cs">
+      <DependentUpon>Admin.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Yonetim\Admin.Master.designer.cs">
+      <DependentUpon>Admin.Master</DependentUpon>
+    </Compile>
+    <Compile Include="Yonetim\default.aspx.cs">
+      <DependentUpon>default.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Yonetim\default.aspx.designer.cs">
+      <DependentUpon>default.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Yonetim\HakkimdaDuzenle.aspx.cs">
+      <DependentUpon>HakkimdaDuzenle.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Yonetim\HakkimdaDuzenle.aspx.designer.cs">
+      <DependentUpon>HakkimdaDuzenle.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Yonetim\IletisimDuzenle.aspx.cs">
+      <DependentUpon>IletisimDuzenle.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Yonetim\IletisimDuzenle.aspx.designer.cs">
+      <DependentUpon>IletisimDuzenle.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Yonetim\Kullanici.aspx.cs">
+      <DependentUpon>Kullanici.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Yonetim\Kullanici.aspx.designer.cs">
+      <DependentUpon>Kullanici.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Yonetim\Mesajlar.aspx.cs">
+      <DependentUpon>Mesajlar.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Yonetim\Mesajlar.aspx.designer.cs">
+      <DependentUpon>Mesajlar.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Yonetim\RestorantEkle.aspx.cs">
+      <DependentUpon>RestorantEkle.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Yonetim\RestorantEkle.aspx.designer.cs">
+      <DependentUpon>RestorantEkle.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Yonetim\RestorantDuzenleSil.aspx.cs">
+      <DependentUpon>RestorantDuzenleSil.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Yonetim\RestorantDuzenleSil.aspx.designer.cs">
+      <DependentUpon>RestorantDuzenleSil.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Yonetim\Rezervasyon.aspx.cs">
+      <DependentUpon>Rezervasyon.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Yonetim\Rezervasyon.aspx.designer.cs">
+      <DependentUpon>Rezervasyon.aspx</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="AnaSayfa.Master" />
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="Web.Debug.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </None>
+    <None Include="Web.Release.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </None>
+    <Content Include="Yonetim\Admin.Master" />
+    <Content Include="Yonetim\assets\css\style.css.map" />
+    <Content Include="Yonetim\assets\fonts\Ubuntu\Ubuntu-Bold.eot" />
+    <Content Include="Yonetim\assets\fonts\Ubuntu\Ubuntu-Bold.ttf" />
+    <Content Include="Yonetim\assets\fonts\Ubuntu\Ubuntu-Bold.woff" />
+    <Content Include="Yonetim\assets\fonts\Ubuntu\Ubuntu-Bold.woff2" />
+    <Content Include="Yonetim\assets\fonts\Ubuntu\Ubuntu-Light.eot" />
+    <Content Include="Yonetim\assets\fonts\Ubuntu\Ubuntu-Light.ttf" />
+    <Content Include="Yonetim\assets\fonts\Ubuntu\Ubuntu-Light.woff" />
+    <Content Include="Yonetim\assets\fonts\Ubuntu\Ubuntu-Light.woff2" />
+    <Content Include="Yonetim\assets\fonts\Ubuntu\Ubuntu-Medium.eot" />
+    <Content Include="Yonetim\assets\fonts\Ubuntu\Ubuntu-Medium.ttf" />
+    <Content Include="Yonetim\assets\fonts\Ubuntu\Ubuntu-Medium.woff" />
+    <Content Include="Yonetim\assets\fonts\Ubuntu\Ubuntu-Medium.woff2" />
+    <Content Include="Yonetim\assets\fonts\Ubuntu\Ubuntu-Regular.eot" />
+    <Content Include="Yonetim\assets\fonts\Ubuntu\Ubuntu-Regular.ttf" />
+    <Content Include="Yonetim\assets\fonts\Ubuntu\Ubuntu-Regular.woff" />
+    <Content Include="Yonetim\assets\fonts\Ubuntu\Ubuntu-Regular.woff2" />
+    <Content Include="Yonetim\assets\scss\components\_badges.scss" />
+    <Content Include="Yonetim\assets\scss\components\_bootstrap-progress.scss" />
+    <Content Include="Yonetim\assets\scss\components\_breadcrumbs.scss" />
+    <Content Include="Yonetim\assets\scss\components\_buttons.scss" />
+    <Content Include="Yonetim\assets\scss\components\_cards.scss" />
+    <Content Include="Yonetim\assets\scss\components\_checkbox-radio.scss" />
+    <Content Include="Yonetim\assets\scss\components\_dropdown.scss" />
+    <Content Include="Yonetim\assets\scss\components\_forms.scss" />
+    <Content Include="Yonetim\assets\scss\components\_icons.scss" />
+    <Content Include="Yonetim\assets\scss\components\_lists.scss" />
+    <Content Include="Yonetim\assets\scss\components\_preview.scss" />
+    <Content Include="Yonetim\assets\scss\components\_tables.scss" />
+    <Content Include="Yonetim\assets\scss\components\_todo-list.scss" />
+    <Content Include="Yonetim\assets\scss\landing-screens\_auth.scss" />
+    <Content Include="Yonetim\assets\scss\mixins\_animation.scss" />
+    <Content Include="Yonetim\assets\scss\mixins\_background.scss" />
+    <Content Include="Yonetim\assets\scss\mixins\_badges.scss" />
+    <Content Include="Yonetim\assets\scss\mixins\_blockqoute.scss" />
+    <Content Include="Yonetim\assets\scss\mixins\_breadcrumbs.scss" />
+    <Content Include="Yonetim\assets\scss\mixins\_buttons.scss" />
+    <Content Include="Yonetim\assets\scss\mixins\_cards.scss" />
+    <Content Include="Yonetim\assets\scss\mixins\_misc.scss" />
+    <Content Include="Yonetim\assets\scss\mixins\_pagination.scss" />
+    <Content Include="Yonetim\assets\scss\mixins\_popovers.scss" />
+    <Content Include="Yonetim\assets\scss\mixins\_text.scss" />
+    <Content Include="Yonetim\assets\scss\mixins\_tooltips.scss" />
+    <Content Include="Yonetim\assets\scss\style.scss" />
+    <Content Include="Yonetim\assets\scss\_dashboard.scss" />
+    <Content Include="Yonetim\assets\scss\_demo.scss" />
+    <Content Include="Yonetim\assets\scss\_fonts.scss" />
+    <Content Include="Yonetim\assets\scss\_footer.scss" />
+    <Content Include="Yonetim\assets\scss\_functions.scss" />
+    <Content Include="Yonetim\assets\scss\_layouts.scss" />
+    <Content Include="Yonetim\assets\scss\_misc.scss" />
+    <Content Include="Yonetim\assets\scss\_navbar.scss" />
+    <Content Include="Yonetim\assets\scss\_reset.scss" />
+    <Content Include="Yonetim\assets\scss\_sidebar.scss" />
+    <Content Include="Yonetim\assets\scss\_typography.scss" />
+    <Content Include="Yonetim\assets\scss\_utilities.scss" />
+    <Content Include="Yonetim\assets\scss\_variables.scss" />
+    <Content Include="Yonetim\assets\scss\_vertical-wrapper.scss" />
+    <Content Include="Yonetim\assets\scss\_widget-grid.scss" />
+    <Content Include="Yonetim\assets\vendors\js\bootstrap.min.js.map" />
+    <Content Include="Yonetim\assets\vendors\mdi\css\materialdesignicons.min.css.map" />
+    <Content Include="Yonetim\assets\vendors\mdi\fonts\materialdesignicons-webfont.eot" />
+    <Content Include="Yonetim\assets\vendors\mdi\fonts\materialdesignicons-webfont.ttf" />
+    <Content Include="Yonetim\assets\vendors\mdi\fonts\materialdesignicons-webfont.woff" />
+    <Content Include="Yonetim\assets\vendors\mdi\fonts\materialdesignicons-webfont.woff2" />
+  </ItemGroup>
+  <ItemGroup />
+  <PropertyGroup>
+    <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
+    <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
+  </PropertyGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(VSToolsPath)\WebApplications\Microsoft.WebApplication.targets" Condition="'$(VSToolsPath)' != ''" />
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v10.0\WebApplications\Microsoft.WebApplication.targets" Condition="false" />
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}">
+        <WebProjectProperties>
+          <UseIIS>True</UseIIS>
+          <AutoAssignPort>True</AutoAssignPort>
+          <DevelopmentServerPort>57600</DevelopmentServerPort>
+          <DevelopmentServerVPath>/</DevelopmentServerVPath>
+          <IISUrl>https://localhost:44316/</IISUrl>
+          <NTLMAuthentication>False</NTLMAuthentication>
+          <UseCustomServer>False</UseCustomServer>
+          <CustomServerUrl>
+          </CustomServerUrl>
+          <SaveServerSettingsInUserFile>False</SaveServerSettingsInUserFile>
+        </WebProjectProperties>
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+    <PropertyGroup>
+      <ErrorText>Bu proje bu bilgisayarda olmayan NuGet paketlerine başvuru yapıyor. Bunları indirmek için NuGet Paket Geri Yükleme'yi kullanın. Daha fazla bilgi için, bkz. http://go.microsoft.com/fwlink/?LinkID=322105. Eksik dosya: {0}.</ErrorText>
+    </PropertyGroup>
+    <Error Condition="!Exists('..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\build\net46\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\build\net46\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props'))" />
+  </Target>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

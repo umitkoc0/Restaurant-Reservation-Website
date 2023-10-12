@@ -1,0 +1,77 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="AnaSayfa.master.cs" Inherits="RezervEt.AnaSayfa" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link rel="shortcut icon" href="images/favicon.svg" type="image/svg+xml">
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <link rel="shortcut icon" href="image/favicon.svg" type="image/svg+xml">
+    <link href="css/style.css" rel="stylesheet" />
+    <link href="css/search.css" rel="stylesheet" />
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+
+
+    <form id="form1" runat="server">
+
+        <%
+            Response.Write("<header class=\"header\" data-header>\r\n            <div class=\"container\">\r\n\r\n                <a href=" + VeriGetir(16) + " class=\"logo\">\r\n\r\n                    <img src=" + VeriGetir(1) + " width=\"148\" height=\"38\" alt=\"RezervEt\">\r\n                </a>\r\n\r\n                <nav class=\"navbar\" data-navbar>\r\n                    <button class=\"nav-close-btn\" aria-label=\"close menu\" data-nav-toggler>\r\n                        <ion-icon name=\"close-outline\" aria-hidden=\"true\"></ion-icon>\r\n                    </button>\r\n\r\n                    <a href=" + VeriGetir(16) + " class=\"logo\">\r\n                        <img src=" + VeriGetir(1) + " width=\"148\" height=\"38\" alt=\"RezervET\">\r\n                    </a>\r\n\r\n                    <ul class=\"navbar-list\">\r\n\r\n                        <li class=\"navbar-item\">\r\n                            <a href=" + VeriGetir(16) + " class=\"navbar-link\" data-nav-link>" + VeriGetir(12) + "</a>\r\n                        </li>\r\n\r\n                        <li class=\"navbar-item\">\r\n                            <a href=" + VeriGetir(17) + " class=\"navbar-link\" data-nav-link>" + VeriGetir(13) + "</a>\r\n                        </li>\r\n\r\n                        <li class=\"navbar-item\">\r\n                            <a href=" + VeriGetir(18) + " class=\"navbar-link\" data-nav-link>" + VeriGetir(14) + "</a>\r\n                        </li>\r\n\r\n                        <li class=\"navbar-item\">\r\n                            <a href=" + VeriGetir(19) + " class=\"navbar-link\" data-nav-link>" + VeriGetir(15) + "</a>\r\n                        </li>\r\n                        <li>\r\n                            <div class=\"search-icon\">\r\n                                <i class=\"fas fa-search\"></i>\r\n                            </div>\r\n                        </li>\r\n\r\n\r\n                    </ul>\r\n                </nav>");
+        %>
+
+        <a runat="server" id="rezerv" href="Rezervasyon.aspx" class="btn btn-primary has-after">Rezervasyon Yap</a>
+
+        <center>
+            <asp:LinkButton ID="hesap" OnClick="hesap_Click" CssClass="social-link" runat="server">LinkButton</asp:LinkButton>
+        </center>
+        <center>
+            <asp:LinkButton ID="cks" OnClick="cks_Click" CssClass="social-link" runat="server"><ion-icon name="log-out"></ion-icon>Çıkış</asp:LinkButton>
+        </center>
+        <%
+            Response.Write("</div>\r\n\r\n            <button class=\"nav-open-btn\" aria-label=\"open menu\" data-nav-toggler>\r\n                <ion-icon name=\"menu-outline\" aria-hidden=\"true\"></ion-icon>\r\n            </button>\r\n\r\n\r\n\r\n            <div class=\"overlay\" data-overlay data-nav-toggler></div>\r\n\r\n        </header>");
+        %>
+
+
+        <div>
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server"></asp:ContentPlaceHolder>
+        </div>
+
+
+        <!-- Footer -->
+
+        <%
+            Response.Write("<footer class=\"footer\">\r\n            <div class=\"container\">\r\n\r\n                <div class=\"section footer-top grid-list\">\r\n\r\n                    <div class=\"footer-brand\">\r\n\r\n                        <a href=\"#\" class=\"logo\">\r\n                            <img src=" + VeriGetir(1) + " width=\"148\" height=\"38\" alt=\"fasteat home\">\r\n                        </a>\r\n\r\n                        <h2 class=\"h2 section-title\">" + VeriGetir(2) + "</h2>\r\n\r\n                        <p class=\"section-text\">" + VeriGetir(3) + "</p>\r\n\r\n                    </div>\r\n\r");
+
+            //Menu
+            Response.Write("<ul class=\"footer-list\">\r\n\r\n                        <li>\r\n                            <p class=\"footer-list-title h5\">Menü</p>\r\n                        </li>\r\n\r\n                        <li>\r\n                            <a href=" + VeriGetir(16) + " class=\"footer-link\">\r\n                                <span class=\"span\">" + VeriGetir(12) + "</span>\r\n\r\n                                <ion-icon name=\"arrow-forward\" aria-hidden=\"true\"></ion-icon>\r\n                            </a>\r\n                        </li>\r\n\r\n                        <li>\r\n                            <a href=" + VeriGetir(17) + " class=\"footer-link\">\r\n                                <span class=\"span\">" + VeriGetir(13) + "</span>\r\n\r\n                                <ion-icon name=\"arrow-forward\" aria-hidden=\"true\"></ion-icon>\r\n                            </a>\r\n                        </li>\r\n\r\n                        <li>\r\n                            <a href=" + VeriGetir(18) + " class=\"footer-link\">\r\n                                <span class=\"span\">" + VeriGetir(14) + "</span>\r\n\r\n                                <ion-icon name=\"arrow-forward\" aria-hidden=\"true\"></ion-icon>\r\n                            </a>\r\n                        </li>\r\n\r\n                        <li>\r\n                            <a href=" + VeriGetir(19) + " class=\"footer-link\">\r\n                                <span class=\"span\">" + VeriGetir(15) + "</span>\r\n\r\n                                <ion-icon name=\"arrow-forward\" aria-hidden=\"true\"></ion-icon>\r\n                            </a>\r\n                        </li>\r\n\r\n                    </ul>\r\n\r\n                    <ul class=\"footer-list\">\r\n\r\n                        <li>\r\n                            <p class=\"footer-list-title h5\">İletişim</p>\r\n                        </li>\r\n\r");
+
+            //Adres Satırı
+            Response.Write("<li><a href=" + VeriGetir(20) + " class=\"footer-link\"><address class=\"address\"><ion-icon name=\"location\" aria-hidden=\"true\"></ion-icon><span class=\"span\">" + VeriGetir(4) + "</span></address></a></li>");
+            //E Posta Satırı
+            Response.Write("<li><a href=mailto:" + VeriGetir(6) + " class=\"footer-link\"><ion-icon name=\"mail\" aria-hidden=\"true\"></ion-icon><span class=\"span\">" + VeriGetir(5) + "</span></a></li>");
+            //Telefon Satırı
+            Response.Write("<li><a href=tel:" + VeriGetir(6) + " class=\"footer-link\"><ion-icon name=\"call\" aria-hidden=\"true\"></ion-icon><span class=\"span\">" + VeriGetir(6) + "</span></a></li>");
+
+            //Sosyal Medya Satırı
+            Response.Write("<li><ul class=\"social-list\"><li><a href=" + VeriGetir(7) + " class=\"social-link\"><ion-icon name=\"logo-facebook\"></ion-icon></a></li><li><a href=" + VeriGetir(8) + " class=\"social-link\"><ion-icon name=\"logo-instagram\"></ion-icon></a></li><li><a href=" + VeriGetir(9) + " class=\"social-link\"><ion-icon name=\"logo-twitter\"></ion-icon></a></li><li><a href=" + VeriGetir(10) + " class=\"social-link\"><ion-icon name=\"logo-linkedin\"></ion-icon></a></li></ul></li></ul></div><div class=\"footer-bottom\">\r\n\r\n                    <p class=\"copyright\">\r\n                        Copyright &copy; 2022 umitkoc. Tüm Hakları Saklıdır.\r\n                    </p>\r\n\r\n                </div></div></div>\r\n        </footer>");
+
+        %>
+        <!-- 
+    - custom js link
+  -->
+        <script src="java/script.js"></script>
+
+
+        <!-- 
+    - ionicon link
+  -->
+        <script type="module" src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"></script>
+        <script nomodule src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"></script>
+    </form>
+</body>
+</html>
