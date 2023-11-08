@@ -19,8 +19,3 @@
 <img src=https://github.com/umitkoc0/Restaurant-Reservation-Website/blob/main/Readme/19.png><br>
 <img src=https://github.com/umitkoc0/Restaurant-Reservation-Website/blob/main/Readme/20.png><br>
 <img src=https://github.com/umitkoc0/Restaurant-Reservation-Website/blob/main/Readme/21.png><br>
-<video width="360" height="320" autoplay="autoplay">
-  <source src="https://github.com/umitkoc0/Restaurant-Reservation-Website/blob/main/Readme/Rezervet.mp4" type="video/mp4" />
-  <source src="https://github.com/umitkoc0/Restaurant-Reservation-Website/blob/main/Readme/Rezervet.mp4" type="video/ogg" />
-  Tarayıcınız video etiketini desteklemiyor.
-</video>
